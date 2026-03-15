@@ -1,0 +1,36 @@
+{
+  "u_zkrixh_proton_me": {
+    "uid": "u_zkrixh_proton_me",
+    "email": "zkrixh@proton.me",
+    "name": "krish",
+    "password": "78103140f5a14917619b150400ac92a361cade51231e86a1851d99018fb1e71b",
+    "token": "mmr6omne_875973273d76b104",
+    "saved": [
+      "mmr6qdbp"
+    ],
+    "likes": [
+      "mmr6qdbp",
+      "mlrjdwje"
+    ],
+    "telegramLinked": true,
+    "telegramId": 7785698936,
+    "joined": "2026-03-15T03:17:15.050Z"
+  },
+  "email_zkrixh@proton.me": "u_zkrixh_proton_me",
+  "tg_7785698936": "u_zkrixh_proton_me",
+  "u_sdfsdf_gmail_com": {
+    "uid": "u_sdfsdf_gmail_com",
+    "email": "sdfsdf@gmail.com",
+    "name": "sdfsdf",
+    "password": "78103140f5a14917619b150400ac92a361cade51231e86a1851d99018fb1e71b",
+    "token": "mmr70o6u_29362bc0b5d585dd",
+    "saved": [],
+    "likes": [
+      "mmr6qdbp"
+    ],
+    "telegramLinked": false,
+    "telegramId": null,
+    "joined": "2026-03-15T03:26:36.918Z"
+  },
+  "email_sdfsdf@gmail.com": "u_sdfsdf_gmail_com"
+}

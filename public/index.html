@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Promptefy — Discover & Share AI Prompts for Sora, Runway, Gemini, Midjourney & More</title>
+  <meta name="description" content="Promptefy is the community-powered AI prompt library. Browse, copy, and share high-quality prompts for Sora, Runway, Flux, Gemini, Midjourney, and ChatGPT. Free to use.">
+  <meta name="keywords" content="AI prompts, Sora prompts, Runway prompts, Midjourney prompts, Gemini prompts, AI video prompts, prompt engineering, AI art prompts, Promptefy">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://promptefy-final.netlify.app/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Promptefy — Discover & Share AI Prompts">
+  <meta property="og:description" content="Community-powered AI prompt library for Sora, Runway, Gemini, Midjourney & more.">
+  <meta property="og:url" content="https://promptefy-final.netlify.app/">
+  <meta property="og:site_name" content="Promptefy">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"SoftwareApplication","name":"Promptefy","applicationCategory":"UtilitiesApplication","operatingSystem":"Web","description":"Community-powered AI prompt library.","url":"https://promptefy-final.netlify.app","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"author":{"@type":"Person","name":"Krish"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","ratingCount":"120"}}
+  </script>
+</head>
+<body>
+  <div class="glass-bg" aria-hidden="true"></div>
+
+  <!-- ═══ HEADER ═══ -->
+  <header>
+    <div class="header-inner">
+      <button id="menu-toggle" class="menu-toggle" aria-label="Open categories">
+        <div class="hamburger"><span></span><span></span></div>
+      </button>
+      <div class="brand">
+        <a href="/" class="logo-link"><h1 class="logo">Promptefy</h1></a>
+        <span class="badge">Community</span>
+      </div>
+      <nav class="header-nav" aria-label="Primary">
+        <a href="#discover" class="nav-link">Discover</a>
+        <a href="#leaderboard-section" class="nav-link">Top Creators</a>
+      </nav>
+      <div class="auth-area" id="auth-area">
+        <a href="/auth.html" id="auth-signin-btn" class="signin-btn">Sign In</a>
+        <div id="user-menu" class="user-menu" style="display:none">
+          <button id="user-avatar-btn" class="user-avatar-btn" title="Account"></button>
+          <div id="user-dropdown" class="user-dropdown" style="display:none">
+            <div id="user-name-display" class="user-dropdown-name"></div>
+            <a href="#" id="my-saved-link" class="user-dropdown-item">★ My Saved</a>
+            <a href="#" id="signout-btn" class="user-dropdown-item">Sign out</a>
+          </div>
+        </div>
+      </div>
+      <a href="https://t.me/promptefybot" target="_blank" rel="noopener" class="contribute-btn" id="contribute-btn">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161l-1.97 9.281s-.137.618-.793.322l-3.494-2.66-1.686-1.623-.006-.004-1.175.386s-.271.1-.351-.029c-.08-.129-.319-1.047-.319-1.047l-2.047-6.687s-.399-.292.034-.425l10.126-3.927s.752-.344.752.152c0 0 .142.073.113.219-.029.146-1.184 5.042-1.184 5.042z"/></svg>
+        Contribute
+      </a>
+    </div>
+  </header>
+
+  <!-- ═══ HERO / BANNERS ═══ -->
+  <section class="hero" id="hero">
+    <div class="banner-carousel" id="banner-carousel">
+      <!-- Static Hero Text Overlay -->
+      <div class="hero-static-overlay">
+        <h1 class="hero-main-title">Promptefy</h1>
+        <p class="hero-tagline">Share Your Best AI Prompts. Discover community-driven creativity.</p>
+      </div>
+
+      <div class="banner-track" id="banner-track">
+        <!-- Placeholder banners (shown when no Telegram banners exist) -->
+        <div class="banner-slide active banner-placeholder" style="background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2564&auto=format&fit=crop')"></div>
+        <div class="banner-slide banner-placeholder" style="background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=2564&auto=format&fit=crop')"></div>
+        <div class="banner-slide banner-placeholder" style="background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?q=80&w=2564&auto=format&fit=crop')"></div>
+      </div>
+      <div class="banner-dots" id="banner-dots">
+        <button class="banner-dot active" data-idx="0"></button>
+        <button class="banner-dot" data-idx="1"></button>
+        <button class="banner-dot" data-idx="2"></button>
+      </div>
+      <div class="hero-stats" id="hero-stats">
+        <div class="stat"><span class="stat-num" id="stat-prompts">0</span><span class="stat-label">Prompts</span></div>
+        <div class="stat-divider"></div>
+        <div class="stat"><span class="stat-num" id="stat-creators">0</span><span class="stat-label">Creators</span></div>
+        <div class="stat-divider"></div>
+        <div class="stat"><span class="stat-num" id="stat-copies">0</span><span class="stat-label">Copies</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ LIVE STATUS BAR ═══ -->
+  <div class="live-status-bar">
+    <div class="live-item">
+      <span class="live-dot"></span>
+      <span id="stat-online">--</span> online now
+    </div>
+    <div class="live-item">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
+      <span id="stat-registered">30+</span> creators joined
+    </div>
+    <div class="live-item">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+      <span id="stat-total-prompts-live">--</span> prompts library
+    </div>
+  </div>
+
+  <!-- ═══ DISCOVER ═══ -->
+  <section id="discover" class="discover-section">
+    <div class="search-section">
+      <div class="search-container" id="search-container">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+        <input type="search" id="search-input" placeholder="Search prompts..." autocomplete="off" aria-label="Search">
+        <kbd class="search-kbd">⌘K</kbd>
+        <button id="search-clear" class="search-clear" aria-label="Clear">&times;</button>
+        <div id="search-loader" class="search-loader"></div>
+      </div>
+    </div>
+    <div class="model-filter" id="model-filter">
+      <button class="model-chip active" data-model="all">All</button>
+      <button class="model-chip" data-model="sora"><span class="model-dot" style="background:#10a37f"></span>Sora</button>
+      <button class="model-chip" data-model="runway"><span class="model-dot" style="background:#ff6b35"></span>Runway</button>
+      <button class="model-chip" data-model="midjourney"><span class="model-dot" style="background:#7c3aed"></span>Midjourney</button>
+      <button class="model-chip" data-model="flux"><span class="model-dot" style="background:#f59e0b"></span>Flux</button>
+      <button class="model-chip" data-model="chatgpt"><span class="model-dot" style="background:#10a37f"></span>ChatGPT</button>
+      <button class="model-chip" data-model="dalle"><span class="model-dot" style="background:#ff4081"></span>DALL·E</button>
+    </div>
+    <div class="sort-tabs" id="sort-tabs">
+      <button class="sort-tab active" data-sort="newest">🕐 Newest</button>
+      <button class="sort-tab" data-sort="trending">🔥 Trending</button>
+      <button class="sort-tab" data-sort="most-copied">📋 Most Copied</button>
+    </div>
+    <nav id="filter-bar" class="filter-bar" aria-label="Categories"></nav>
+    <main id="feed" aria-label="Prompt feed">
+      <div class="skeleton-card"><div class="sk-line sk-title"></div><div class="sk-line sk-tags"></div><div class="sk-line sk-body"></div><div class="sk-line sk-body short"></div><div class="sk-line sk-footer"></div></div>
+      <div class="skeleton-card"><div class="sk-line sk-title"></div><div class="sk-line sk-tags"></div><div class="sk-line sk-body"></div><div class="sk-line sk-body short"></div><div class="sk-line sk-footer"></div></div>
+      <div class="skeleton-card"><div class="sk-line sk-title"></div><div class="sk-line sk-tags"></div><div class="sk-line sk-body"></div><div class="sk-line sk-body short"></div><div class="sk-line sk-footer"></div></div>
+    </main>
+  </section>
+
+  <!-- ═══ LEADERBOARD ═══ -->
+  <section id="leaderboard-section" class="leaderboard-section">
+    <h2 class="section-heading">🏆 Top Contributors</h2>
+    <p class="section-sub">The community behind Promptefy</p>
+    <div id="leaderboard" class="leaderboard-grid"></div>
+    <div class="leaderboard-cta">
+      <a href="https://t.me/promptefybot" target="_blank" rel="noopener" class="btn btn-outline btn-sm">Join via Telegram →</a>
+    </div>
+  </section>
+
+  <!-- ═══ GEO ═══ -->
+  <section class="geo-section">
+    <h2 class="section-heading">📚 Guides</h2>
+    <div class="geo-grid">
+      <a href="/best-ai-video-prompts.html" class="geo-card"><span class="geo-icon">🎬</span><span class="geo-title">Best AI Video Prompts</span><span class="geo-arrow">→</span></a>
+      <a href="/sora-video-prompts.html" class="geo-card"><span class="geo-icon">🌀</span><span class="geo-title">Sora Prompts</span><span class="geo-arrow">→</span></a>
+      <a href="/runway-video-prompts.html" class="geo-card"><span class="geo-icon">✈️</span><span class="geo-title">Runway Prompts</span><span class="geo-arrow">→</span></a>
+      <a href="/ai-video-prompt-guide.html" class="geo-card"><span class="geo-icon">📖</span><span class="geo-title">Prompt Guide</span><span class="geo-arrow">→</span></a>
+    </div>
+  </section>
+
+  <!-- ═══ DRAWER ═══ -->
+  <div id="drawer-overlay" class="drawer-overlay"></div>
+  <aside id="drawer" class="drawer">
+    <div class="drawer-header"><h2>Categories</h2><button id="drawer-close">&times;</button></div>
+    <ul id="drawer-list" class="drawer-list"></ul>
+    <div class="drawer-footer">
+      <a href="https://t.me/promptefybot" target="_blank" rel="noopener" class="drawer-bot-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161l-1.97 9.281s-.137.618-.793.322l-3.494-2.66-1.686-1.623-.006-.004-1.175.386s-.271.1-.351-.029c-.08-.129-.319-1.047-.319-1.047l-2.047-6.687s-.399-.292.034-.425l10.126-3.927s.752-.344.752.152c0 0 .142.073.113.219-.029.146-1.184 5.042-1.184 5.042z"/></svg>
+        Telegram Bot
+      </a>
+    </div>
+  </aside>
+
+  <!-- ═══ MODAL ═══ -->
+  <div id="modal-overlay" class="modal-overlay" aria-hidden="true">
+    <div class="modal" role="dialog"><button class="modal-close" id="modal-close">&times;</button><div class="modal-body" id="modal-body"></div></div>
+  </div>
+
+  <!-- ═══ TOAST ═══ -->
+  <div id="toast-container" class="toast-container" aria-live="polite"></div>
+
+  <!-- ═══ FOOTER ═══ -->
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-brand-section">
+        <div class="footer-brand">Promptefy</div>
+        <p class="footer-tagline">Community-powered AI prompt library. Discover, copy, and share prompts.</p>
+      </div>
+      <div class="footer-links">
+        <div class="footer-col"><h3>Platform</h3><a href="/">Browse</a><a href="https://t.me/promptefybot" target="_blank">Bot</a><a href="#leaderboard-section">Contributors</a></div>
+        <div class="footer-col"><h3>Guides</h3><a href="/best-ai-video-prompts.html">AI Video</a><a href="/sora-video-prompts.html">Sora</a><a href="/runway-video-prompts.html">Runway</a></div>
+        <div class="footer-col"><h3>Connect</h3><a href="https://t.me/promptefybot" target="_blank">Telegram Bot</a><a href="https://t.me/northframe" target="_blank">Channel</a><a href="https://instagram.com/krriiish.s" target="_blank">Instagram</a></div>
+      </div>
+      <div class="footer-bottom"><span>© 2026 Promptefy</span><span class="footer-powered">by <a href="https://t.me/promptefybot">Krish</a></span></div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

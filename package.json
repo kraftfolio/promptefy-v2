@@ -1,0 +1,20 @@
+{
+  "name": "prompt-panel",
+  "version": "1.0.0",
+  "description": "Telegram-powered content publishing system",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "setup-webhook": "node scripts/setup-webhook.mjs",
+    "remove-webhook": "node scripts/remove-webhook.mjs"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^10.7.0",
+    "@supabase/supabase-js": "^2.99.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "googleapis": "^171.4.0",
+    "multer": "^1.4.5-lts.1",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}

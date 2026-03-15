@@ -1,0 +1,662 @@
+[
+  {
+    "id": "mmqkixp9",
+    "function": "ethereal glow",
+    "tags": [
+      "filter"
+    ],
+    "prompt": "Apply an ethereal, cinematic lighting effect while fully preserving the original photo. Change only lighting, glow, and color mood. Add soft, diffused sunlight with gentle highlights on cheekbones, nose bridge, lips, and hair. Maintain clear contrast between bright light and soft shadows. Introduce subtle lens bloom, light haze, and a faint glow around the face and shoulders. Render skin luminous with warm peachy tones. Slightly reduce saturation and add mild film grain. Keep the background unchanged, allowing natural light flares and soft bokeh. The result should feel soft, dreamy, sunlit, and cinematic.\n\nHard rule:\nDo not alter facial features, structure, textures, or background—only lighting and color mood.",
+    "image": "/api/image/1773507406329_jbui18.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-14T16:56:57.885Z"
+  },
+  {
+    "id": "mmqk2cv3",
+    "function": "Product #9",
+    "tags": [
+      "product"
+    ],
+    "prompt": "A high-end, ultra-realistic product photography scene featuring @img1 as the hero.\n\nConcept\n\nIndulgent, rich, chocolate-forward protein bar visual\n\nFocus on taste, texture, and premium feel\n\nMinimal yet dramatic composition\n\nBackground\n\nSolid background color matched to the dominant wrapper color of the protein bar\n(example: chocolate brown / caramel / nutty beige)\n\nSmooth, matte surface\n\nNo gradients, no patterns\n\nProduct Placement\n\nProtein bar placed slightly angled, partially resting on its own broken pieces\n\nWrapper clearly visible, readable, and undistorted\n\nBar feels grounded yet dynamic\n\nFlow & Texture Elements\n\nThick, glossy chocolate / sauce / flavor drizzle pouring from above onto the bar\n\nRealistic flow with natural thickness and shine\n\nBroken bar chunks stacked beside the bar showing texture inside\n\nSmall crumbs or nut bits scattered subtly for realism\n\nLighting\n\nSoft studio lighting with warm highlights\n\nGentle shadows beneath the bar and chunks\n\nEmphasis on gloss, richness, and depth\n\nNo harsh reflections on packaging\n\nCamera & Composition\n\nEye-level or slightly low angle\n\nTight framing with negative space above\n\nShallow depth of field for premium focus\n\nUltra-sharp details on product and textures\n\nProduct Rules\n\nKeep exact bar shape, wrapper design, branding, and proportions\n\nNo redesign, no logo edits\n\nNo text overlays, no watermarks\n\nStyle Keywords\n\nPremium protein bar photography, indulgent food ad, chocolate pour effect, texture-focused commercial shot, ultra-realistic, minimalist luxury FMCG",
+    "image": "/api/image/1773506630659_2ed1u6.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-14T16:44:04.383Z"
+  },
+  {
+    "id": "mmqk0ill",
+    "function": "Product #7",
+    "tags": [
+      "product"
+    ],
+    "prompt": "Ultra-premium cinematic skincare product photography featuring @img1 placed inside a narrow wooden boat floating on deep blue lotus pond water.\n\nMaintain the exact original product shape, proportions, label, typography, texture, color tone, cap design, and detailing unchanged.\n\n🌊 Scene Setup\n\nTop-down aerial composition.\n\nA long, slim wooden boat positioned vertically in the center of the frame, gently floating on dark blue water.\n\nPlace @img1 standing upright inside the boat, perfectly centered and balanced.\n\nThe boat interior should feel handcrafted wood, subtle texture, soft neutral tones.\n\n🌸 Botanical Elements\n\nSurrounding environment:\n\n• Floating green lotus leaves with water droplets\n• Soft pink lotus flowers blooming around the boat\n• A few falling lotus petals mid-air (slight motion blur)\n• Subtle koi fish visible under the water surface\n• Gentle water ripples spreading outward\n\nNatural, organic spacing. Nothing symmetrical.\n\n💡 Lighting & Mood\n\nSoft moonlight reflection on water surface\nGentle light glow on the left side creating a dreamy highlight\nSubtle cinematic spotlight on the product\nDeep shadows around edges for depth\n\nLuxury spa / traditional Asian skincare campaign aesthetic\nCalm, serene, meditative mood\n\n📷 Camera & Technical\n\nTop-down drone perspective\n85mm lens feel\nf/3.5 shallow depth\nUltra-detailed water texture\nRealistic reflections and refractions\nCinematic color grading deep blue\n\n🎨 Color Palette\n\nDeep navy blue water\nSoft jade green tones\nLotus pink accents\nNatural wood brown\nElegant muted contrast",
+    "image": "/api/image/1773506549519_z7wiwc.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-14T16:42:38.505Z"
+  },
+  {
+    "id": "mmqjzcke",
+    "function": "Product #5",
+    "tags": [
+      "product"
+    ],
+    "prompt": "Ultra-realistic luxury lifestyle product photography featuring @img1 as the hero product.\n\nScene setup: bright outdoor summer setting with soft neutral background. Model wearing an all-white outfit (white sleeveless top and high-waisted tailored trousers). Clean minimal aesthetic.\n\nModel description (partial frame):\nElegant woman (late 20s to early 30s), warm natural skin tone, minimal makeup, clean manicured nails in soft nude shade. Only torso and hands visible. One hand gently placing @img1 into a woven straw handbag with structured brown leather handles.\n\nPlace @img1 partially inside the woven bag pocket, label facing outward and clearly readable. Maintain the exact original product shape, proportions, cap design, packaging color, label typography, material finish, and reflections unchanged.\n\nBag details:\nNatural woven straw texture\nWarm beige tone\nStructured brown leather handles\nPremium summer accessory aesthetic\n\nLighting:\nBright natural sunlight from upper left\n– Soft but defined shadow on clothing folds\n– Natural skin highlights\n– Clean product edge lighting\n– Crisp shadow inside bag opening\n\nLens & technical:\n50mm lens look\nf/3.5 shallow depth\nProduct sharp and detailed\nBackground softly blurred\nUltra-realistic fabric and straw texture\n\nColor grading:\nWarm neutral tones\nSoft creamy whites\nSun-kissed skin glow\nMinimal luxury editorial finish\n\nComposition:\nVertical 4:5 format\nProduct slightly off-center\nHands framing the product naturally\nLifestyle-focused but product clearly visible\nNo text\nNo watermark\nNo added branding\n\nAesthetic keywords:\nSummer skincare essential, luxury resort lifestyle, everyday elegance campaign, handbag flat lifestyle shot, clean Pinterest beauty aesthetic.",
+    "image": "/api/image/1773506494154_7m3ot9.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-14T16:41:44.030Z"
+  },
+  {
+    "id": "mmqjy1v6",
+    "function": "Product #3",
+    "tags": [
+      "product"
+    ],
+    "prompt": "Ultra-premium skincare product photography featuring @img1 as the hero product.\n\nScene setup: glossy, thick liquid surface in soft pastel pink tone, forming smooth flowing cream-like swirls and sculpted folds. The liquid appears silky, high-shine, and dimensional, with subtle depth variations and organic curved waves.\n\nPlace @img1 gently embedded within the liquid surface, slightly angled and naturally resting inside a swirl pocket. Maintain the exact original product shape, proportions, cap design, label layout, text clarity, material finish, reflections, and detailing unchanged.\n\nThe liquid should softly contour around the product edges without distorting its shape. Realistic contact shadows where bottle meets cream.\n\nLighting:\nSoft studio lighting from top-left\n– Bright glossy highlights on liquid curves\n– Gentle reflective shine on product surface\n– Smooth shadow gradient under bottle\n– Clean beauty-commercial glow\n\nTexture details:\nHigh-gloss creamy texture\nVisible smooth specular reflections\nSilky cosmetic consistency\nNo bubbles unless naturally subtle\n\nColor grading:\nSoft pastel pink monochrome aesthetic\nClean, feminine, luxury skincare vibe\nHigh-end editorial finish\nSubtle contrast, not harsh\n\nLens & technical:\n85mm lens look\nf/4 shallow depth\nSharp focus on product label\nBackground swirl slightly softened\nUltra-detailed texture rendering\n\nComposition:\nVertical 4:5 format\nProduct centered or slightly diagonal\nLiquid swirl framing the bottle\nMinimal luxury campaign aesthetic\nNo text\nNo extra logo additions\nNo watermark\n\nAesthetic keywords:\nBeauty editorial, cosmetic cream vortex, silky serum texture, luxury skincare campaign, glossy pastel aesthetic.",
+    "image": "/api/image/1773506409391_doo78p.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-14T16:40:43.506Z"
+  },
+  {
+    "id": "mmqjrv65",
+    "function": "Night mode",
+    "tags": [
+      "night"
+    ],
+    "prompt": "Imagine the photo is clicked at night with flash on, on a vintage camera. the person in the provided photo is wearing a black hoodie, he's standing with holding a white cat in their hands. the photo looks aesthetic as the person is looking towards the cat and the cat towards them. this looks overall like a sweet moment captured in film. the background is all black and has some green leaves behind a metal fence.",
+    "image": "/api/image/1773506140340_69trmy.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-14T16:35:54.893Z"
+  },
+  {
+    "id": "mmqjpsq8",
+    "function": "Soft folter",
+    "tags": [
+      "filter"
+    ],
+    "prompt": "\"Create soft. etherea studio lighting with warm golden tones. Add diffused sunlight coming from the side, casting gentle soft-edged shadows on the face. Maintain smooth, creamv skin highlights, slight bloom/glow around bright areas, and a hazy cinematic atmosphere. Keep the contrast low, whites glowing, and overall mood dreamy, warm, and angelic. Preserve natural skin texture while adding a subtle glossy sheen.",
+    "image": "/api/image/1773506045329_j58vvi.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-14T16:34:18.416Z"
+  },
+  {
+    "id": "mmqjlkgu",
+    "function": "😂 Uno reverse horse",
+    "tags": [
+      "funny"
+    ],
+    "prompt": "Create a high-contrast monochrome cinematic photograph with a timeless fine-art editorial aesthetic. In the foreground, a strong black horse sits low on a minimalist metal stool, positioned centrally. The horse is dressed in dark, oversized, layered human clothing -including a structured coat, wide-leg trousers, and heavy leather boots. The horse's posture is grounded and relaxed: legs spread forward, feet firmly planted on uneven outdoor terrain. One front hoof rests loosely between the knees, holding thin leather reins. The shoulders are slightly slouched, head gently tilted downward, conveying a calm, introspective presence. In the background, a single human figure stands a short distance behind the seated horse, aligned almost protectively and partially overlapping the horse's silhouette.The person wears dark, minimalist tailored clothing with clean lines and a matte finish, blending naturally into the scene. The person is wearing black sunglasses with a subtle, understated design, adding anonymity and composure. The facial features must match the provided face image naturally, with realistic proportions, lighting, and expression consistent with the environment. The face should feel seamlessly integrated, not stylized or exaggerated.\n\nThe setting is an open natural landscape with rough ground, scattered stones, and wild grass. The sky is bright and slightly overexposed, creating strong negative space and dramatic contrast.\n\nLighting is high contrast with deep blacks, soft highlights, matte textures, and subtle film grain. The overall look resembles medium-format film photography-cinematic, moody, avant-garde luxury fashion editorial.\nMaintain sharp detail, balanced composition, \nand a natural depth of field. The image should feel minimal, powerful, and emotionally quiet.\nOutput in high quality (1080p or higher) with no loss of texture or detail.",
+    "image": "/api/image/1773505838722_4cea0u.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-14T16:31:01.086Z"
+  },
+  {
+    "id": "mmqjjfyn",
+    "function": "Quality 8k",
+    "tags": [
+      "quality"
+    ],
+    "prompt": "Enhance the existing photo only keep the original framing, angle, composition, and facial proportions exactly the same. Do not crop, zoom, or convert to a close-up.Improve overall image clarity and sharpness naturally, with special attention to eye detail while keeping the full face and original framing intact.\n\nRefine focus slightly for better definition without making it overly sharp.\n\nApply soft, natural cinematic lighting correction, preserving realistic shadows and depth already present in the image.\n\nEnhance natural skin texture with visible pores and fine details – no beauty smoothing, no skin softening.\n\nRemove digital noise and compression artifacts while retaining organic texture.\n\nImprove dynamic range and contrast subtly, with muted highlights and rich mid-tones.\n\nMaintain accurate, organic skin tones with realistic color balance.\n\nAdd very subtle cinematic film grain for a professional movie-still look.\n\nBackground should remain exactly as it is, only slightly cleaner if noisy no artificial blur added.\n\nPreserve all facial features, expressions, hair strands, and natural imperfections.\n\nPhotorealistic result, professional camera look, high-quality enhancement only – no stylization.\n\nNEGATIVE PROMPT (CRITICAL)\n\nclose-up, zoomed-in, cropped face, changed framing, face alteration, reshaped features, beauty filter, oversmoothed skin, plastic skin, waxy texture, Al face, cartoon, anime, CGI, illustration, painting, artificial blur, fake bokeh, harsh lighting, flat lighting, over-sharpening, halos, HDR look, distorted eyes, asymmetry, extra details, digital artifacts, smartphone filter look.\n\nRECOMMENDED SETTINGS (IMPORTANT)\n\nImage-to-Image Strength / Denoise: 0.15-0.30\n\nCFG/Guidance: 5-7\n\nSteps: 25-35\n\nFace Restoration: OFF\n\nUpscale: After final result only (2x max)\n\nSeed: Fixed (for consistency)",
+    "image": "/api/image/1773505738139_fycgb9.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-14T16:29:21.935Z"
+  },
+  {
+    "id": "mmqji0x9",
+    "function": "Red filter",
+    "tags": [
+      "filter"
+    ],
+    "prompt": "Use the user uploaded image as the exact base reference.\n\nApply a strong red aesthetic lighting effect, as if the scene is illuminated by a deep red neon light or traffic light glow at night.\n\nLighting & color treatment:\n\nCast a dominant red light source onto the subject’s face, skin, and hair\n\nRed light should feel directional and realistic, not a flat color overlay\n\nPreserve natural shadows and depth while tinting highlights red\n\nKeep blacks deep and shadows rich for a cinematic night mood\n\nSlight warm red bloom around highlights, especially on cheekbones, nose bridge, lips, and hair strands\n\nSubtle red color spill onto nearby surfaces (car interior, background edges if visible)\n\nMood & style:\n\nEditorial, cinematic, intimate night-time atmosphere\n\nMoody, quiet, slightly dramatic feel\n\nLooks like a candid photo taken inside a car under red street or brake lights\n\nFashion editorial realism, not stylized illustration\n\nQuality & realism:\n\nMaintain realistic skin texture and facial details\n\nNo plastic skin, no over smoothing\n\nAdd very subtle film grain for cinematic texture\n\nPreserve original sharpness and depth of field\n\nHard rules (must follow):\n\nDo NOT change the subject’s face, facial structure, hair shape, body, or expression\n\nDo NOT change the pose, camera angle, framing, or crop\n\nDo NOT change the outfit or accessories\n\nDo NOT alter the background structure or objects\n\nDo NOT change the aspect ratio\n\nOnly apply lighting, color grading, and mood enhancements\n\nOutput should look like the original photo captured under dramatic red night lighting, cinematic and realistic.",
+    "image": "/api/image/1773505680718_417o6m.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-14T16:28:15.789Z"
+  },
+  {
+    "id": "mmqjdusy",
+    "function": "Poster #1",
+    "tags": [
+      "poster"
+    ],
+    "prompt": "Ultra-realistic cinematic poster of the same person from the uploaded reference image, exact same face, hairstyle, expression, skin tone, pose, and proportions, 100% face match, wearing a traditional green silk saree with gold embroidery, medium close-up portrait, soft studio lighting with natural skin highlights, vintage editorial color grading, clean professional cutout with realistic depth and shadow, pastel green textured background, large bold tall condensed typography “krish” behind the person in dark green color replacing any other text, perfectly aligned perspective and spacing, elegant floral elements (soft pink and white flowers) placed behind shoulders, one white daisy flower tucked near the hair, premium magazine cover composition, sharp focus, ultra detailed skin texture, professional graphic design, balanced lighting, depth of field, 8K resolution, extremely realistic, no face change, exact identity preservation.",
+    "image": "/api/image/1773505438612_jxp4am.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-14T16:25:01.234Z"
+  },
+  {
+    "id": "mmqjc3im",
+    "function": "Studio portrait",
+    "tags": [
+      "filter",
+      "studio"
+    ],
+    "prompt": "Use the uploaded image as the base image.\nDo not change the person, face, pose, outfit, framing or angle — everything must remain exactly the same (100% face match, no alterations).\nEnhance the image to ultra-high resolution with refined sharpness and natural skin detail.\nApply a professional DSLR-style shallow depth of field effect — strong creamy background blur (full bokeh effect), smooth lens blur on water, hills and sky, clear subject separation, sharp focus locked on the face and upper body.\nMaintain natural lighting, realistic skin texture with soft glow, clean contrast, cinematic color grading, depth enhancement, premium portrait finish.\nUltra-realistic, photorealistic, high-detail, strong background blur, subject tack sharp, no new elements, no pose change, no object removal, no text, no logos, no watermark.",
+    "image": "/api/image/1773505388649_1hxhre.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-14T16:23:39.214Z"
+  },
+  {
+    "id": "mmqjanza",
+    "function": "Quality ultra",
+    "tags": [
+      "quality"
+    ],
+    "prompt": "Use the original image as a strict reference and preserve 100% identity, face structure, pose, and composition. Perform ultra-high-resolution 8K upscaling with maximum detail enhancement. Add realistic skin texture with visible pores, fine lines, and natural imperfections, avoiding any plastic or artificial smoothing. Enhance facial details including sharp eyes, realistic eyelashes, natural eyebrows, detailed lips, and individual hair strands. Apply professional DSLR camera quality using a full-frame camera look with a premium 85mm or 50mm lens. Improve lighting with a natural key light, soft fill light, and subtle rim light to separate the subject from the background. Increase clarity and sharpness naturally without over-sharpening. Balance highlights and shadows with improved dynamic range and true-to-life colors. Reduce noise and compression artifacts while preserving original texture. Apply cinematic yet realistic color grading with accurate skin tones and authentic depth of field. Output should look ultra-photorealistic, high-end studio quality, DSLR-level realism.\", \"negative_prompt\": \"over-smoothed skin, plastic face, cartoon style, anime, painterly look, Al artifacts, distorted face, fake skin texture, blur, low detail, harsh sharpening, oversaturation, unrealistic lighting, color bleeding, noise artifacts\", \"resolution\": \"7680x4320\", \"quality\": \"8K\", style\": \"photorealistic, DSLR\", \"detail_level\": \"maximum\", \"identity_preservation\": \"strong\", \"reference_image_weight\": \"high\", \"noise_reduction\": \"high without texture loss\", \"sharpening\": \"natural and controlled\", \"lighting\": \"realistic studio lighting\", \"camera\": { \"type\": \"DSLR\", \"sensor\": \"full-frame\", \"lens\": \"85mm portrait lens\", \"aperture\": \"f/1.8\" }}",
+    "image": "/api/image/1773505333367_ks17vh.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-14T16:22:32.422Z"
+  },
+  {
+    "id": "mmqj9940",
+    "function": "Aesthetic filter",
+    "tags": [
+      "filter"
+    ],
+    "prompt": "Transform this image into a cinematic dramatic sunset HDR scene while preserving 100% of the original content and identity. Do NOT change, add, remove, replace, or distort any object, subject, person, animal, building, tree, road, shadow, reflection, or background. Keep the exact same composition, framing, camera angle, perspective, proportions, and subject placement.\nApply realistic golden hour sunset lighting with natural warm highlights and soft balanced shadows. Enhance dynamic range, recover highlights, deepen shadows, and improve contrast while maintaining realistic skin tones and true-to-life colors. No oversaturation, no artificial tones.\nNo fantasy effects, no extra sun, no added clouds, no lens flare, no fog, no rain, no glow effects unless already present in the original image.\nUltra-detailed, photorealistic HDR color grading. DSLR-quality lighting, natural depth, crisp clarity, subtle warmth.\nThis must be a strict color and lighting transformation only. The original image must remain perfectly recognizable.",
+    "image": "/api/image/1773505272105_8kc7on.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-14T16:21:26.496Z"
+  },
+  {
+    "id": "mmq2z4mu",
+    "function": "Image enhancement #5",
+    "tags": [
+      "filter"
+    ],
+    "prompt": "Use the uploaded image as the only reference.\nKeep the woman exactly the same — same face, skin tone, hair texture, expression, body proportions and pose (100% face match, identity locked).\nRecreate the exact same composition and mood:\nA soft dreamy cinematic portrait of the woman wearing a blush pink saree with delicate silver embroidered blouse and detailed border work. She is holding the saree pallu gently with one hand near the waist while the other hand is raised near her collarbone, fingers softly touching the necklace. Calm, confident, slightly intense expression with direct eye contact.\nHair styled in soft loose waves flowing naturally over the shoulders. Traditional jewelry visible: necklace, earrings, bracelet, rings.\nBackground & atmosphere: Surrounded by blurred pink flowers in the foreground and background creating depth layering. Soft floral bokeh elements partially crossing the frame. Light floating dust/sparkle particles in the air for dreamy effect.\nLighting: Soft diffused golden daylight from front-left, gentle highlights on cheekbones and hair, smooth skin glow, subtle shadow depth, warm pastel tone.\nColor grading: Romantic pastel cinematic tone, warm highlights, soft pink hues, creamy whites, high dynamic range, slightly enhanced vibrance but natural skin tones.\nCamera & framing: Medium portrait (waist to head), eye-level angle, shallow depth of field, strong subject separation, soft foreground blur.\nUltra-realistic, photorealistic, 8K resolution, high-detail embroidery texture, sharp facial clarity, smooth skin texture without over-smoothing, no pose change, no angle change, no outfit change, no extra elements, no text, no watermark.",
+    "image": "/api/image/1773477913941_k4kxm7.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-14T08:45:40.278Z"
+  },
+  {
+    "id": "mmq2x8zj",
+    "function": "Ethernal light",
+    "tags": [
+      "filter"
+    ],
+    "prompt": "Remove the heavv shadowed cast from the uploaded photo and apply an ethereal lighting, while restoring natural true to-life skin tones and fabric colors and deblur the subiect without altering the subiect, pose, or backqround Neutralize color spill while preservina realistic lighting depth Reconstruct balanced light on the subject's skin as if lit bv a direct on-camera flash maintaining strong contrast between illuminated areas and deep shadows Elevate the image using soft, dreamy sunliaht Add sunbeams creatinq a glowing highlight on cheekbones nose bridge, lips, and hair strandsInject subtle lens bloom and a thin laver of qlow around the face and shoulders Render skin with Iuminous translucency and gentle peachy tones Enhance stray hair strands backlit by sunlight Retain dark surroundingsif the image is soft or motionblurred, upscale with high-detai enhancement. Hard rule no face change",
+    "image": "/api/image/1773477820062_unmeh0.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-14T08:44:12.607Z"
+  },
+  {
+    "id": "mmq2twyf",
+    "function": "BG Blur",
+    "tags": [
+      "blur"
+    ],
+    "prompt": "Use the uploaded image as the base image.\nDo not change the person, face, pose, outfit, framing or angle — everything must remain exactly the same (100% face match, no alterations).\nEnhance the image to ultra-high resolution with refined sharpness and natural skin detail.\nApply a professional DSLR-style shallow depth of field effect — strong creamy background blur (full bokeh effect), smooth lens blur on water, hills and sky, clear subject separation, sharp focus locked on the face and upper body.\nMaintain natural lighting, realistic skin texture with soft glow, clean contrast, cinematic color grading, depth enhancement, premium portrait finish.\nUltra-realistic, photorealistic, high-detail, strong background blur, subject tack sharp, no new elements, no pose change, no object removal, no text, no logos, no watermark.",
+    "image": "/api/image/1773477662398_k3558u.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-14T08:41:37.047Z"
+  },
+  {
+    "id": "mmq2sj6c",
+    "function": "Quality 3",
+    "tags": [
+      "quality"
+    ],
+    "prompt": "Enhance the uploaded photo to ultra-high resolution while keeping the pose, framing, background, face, clothing, and composition exactly the same. Do not change the facial identity.\n\nRemove heavy shadows and apply warm golden cinematic lighting similar to golden hour sunlight. Add a strong soft backlight from the top or behind the subject, creating a warm glowing halo around the hair and shoulders.\n\nIlluminate the face with soft diffused front light so facial details remain clear and natural. Restore natural skin tones and fabric colors while improving brightness, contrast, and dynamic range.\n\nAdd warm sunlight rays and subtle sunbeams from the background, creating glowing highlights on the hair, cheekbones, nose bridge, and lips.\n\nInject a soft cinematic lens bloom and warm glow around the subject while keeping the background slightly darker for depth and contrast.\n\nReduce blur, noise, and compression artifacts while regenerating fine details such as skin texture, hair strands, and clothing texture.\n\nFinal result should look like a professional cinematic portrait with warm golden sunlight, soft backlight, DSLR quality, sharp focus, and high dynamic range.\n\nHard rule: do not change the face, pose, or composition.",
+    "image": null,
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-14T08:40:32.532Z"
+  },
+  {
+    "id": "mmpxs09u",
+    "function": "Step #3",
+    "tags": [
+      "ai influencer"
+    ],
+    "prompt": "———————————————————————————\ndelete this when pasting the prompt\n———————————————————————————\nOpen Flow by google\nSelect Frame to Frame with veo 3.1 quality model \nAttach image from Step #2 and paste this prompt \n———————————————————————————\nframe to video speaking in hindi with confidence \ndialouge: \"Your dialouge\"\nmood: confident",
+    "image": "/api/image/1773469026035_64dndb.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-14T06:20:09.954Z"
+  },
+  {
+    "id": "mmpxnmpj",
+    "function": "Step #2",
+    "tags": [
+      "ai influencer"
+    ],
+    "prompt": "Create a hyper-realistic, live-action indoor photograph of the person from the provided reference image seated at a desk in a professional podcast / content-creator studio setup.Use the reference image as the only source of identity, accurately preserving:facial structureskin toneproportionsnatural asymmetryhairline and facial featuresThe generated subject must match the reference image one-to-one without altering identity.Pose & ExpressionSeated on a chair at a deskNatural mid-conversation posture, as if recording a podcast or talking to an audienceSubtle confident smileFocused, approachable expressionLooking toward the cameraClothing & AppearanceModern tech-creator casual outfitPlain white T-shirtBlack denim jacketRealistic fabric texture, folds, and stitchingClean, minimal creator styleDesk & Tech SetupProfessional content-creator workspace:Matte or wooden desk surfaceDesktop monitor placed in front (screen softly glowing, minimal interface)Professional camera mounted on tripod beside the deskShotgun or condenser microphone mounted on boom armMechanical keyboard and mouseMinimal tech accessoriesOrganized desk with clean cable managementBackground & Studio EnvironmentPremium dark YouTube studio aestheticMatte black or dark charcoal wallsSoft studio grid light panel visibleFloating wall shelves with:Cameras or lensesMinimal decorative objectsSmall plantsWarm accent lamp producing soft amber glowSubtle YouTube play-button style decor (no readable text)The environment should feel:cinematicmodernminimaltech-focusedNo clutter and no bright distracting colors.LightingProfessional studio lighting setupSoft key light illuminating the faceSubtle fill light balancing shadowsRim / hair light separating subject from backgroundBalanced warm and cool tonesNatural skin tones with realistic highlightsCamera & CompositionMedium shot (waist-up framing)Eye-level camera angleShot like high-end DSLR photography85mm portrait lensShallow depth of fieldSubject sharp, background softly blurredCinematic composition suitable for YouTube thumbnails and creator brandingStyle & Realism (Strict)Ultra-realistic live-action photographyVisible skin texture and poresAccurate hand anatomyRealistic reflections on screens and equipmentNatural lighting falloffNo AI artifacts or distortionsNo illustration or CGI appearanceRestrictionsNo text overlaysNo watermarkNo UI elementsNo borders or frames✅ Final GoalA DSLR-quality professional photograph of the person from the reference image recording content in a premium dark-themed creator studio, with:modern tech creator setupcinematic lightingclean YouTube studio aestheticextremely realistic photographic quality\nIMPORTANT - FACE LOCK Keep the subject's real face exactly the same as the reference image. Do NOT change facial structure, jawline, eyes shape, nose, lips, skin tone, beard, hairline, age, or expression. Maintal 100% identity accuracy. No beautification, no face swapping, no Al alteration. Preserve natural skin texture, pores, asymmetry, and imperfections. The person must be instantly recognizable as the same individual",
+    "image": "/api/image/1773468937264_3le5lm.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-14T06:16:45.751Z"
+  },
+  {
+    "id": "mmpxlh1n",
+    "function": "Step #1",
+    "tags": [
+      "ai influencer"
+    ],
+    "prompt": "cinematic editorial portrait feel.ExpressionA soft, natural expression with relaxed facial muscles and slightly parted lips. Her eyes should be sharp, expressive and focused toward the camera, creating emotional connection and realism.Facial DetailsExtremely realistic human skin texture including:visible skin poressubtle natural imperfectionsfaint peach fuzz and fine facial hairgentle blush tones on cheeksnatural lip textureslight skin micro-texture under cinematic lightingHer beauty should feel natural and believable, similar to high-end documentary portrait photography rather than glamour retouching.HairNatural dark Indian hair, softly styled with a few loose strands around the face. Hair should have realistic shine and texture, slightly catching the light.LightingProfessional cinematic studio portrait lighting:soft directional key light from one side (Rembrandt style)gentle shadows sculpting the cheekbones and jawlinesubtle highlight in the eyes (catchlight)dark neutral studio background with moody contrastLighting should create a dramatic yet soft cinematic mood.Camera & LensShot like high-end portrait photography using:85mm portrait lensshallow depth of fieldsharp focus on the eyesnatural falloff blur across face edgescreamy background bokehColor GradingCinematic editorial color grading:slightly desaturated tonescool shadowsrich warm skin tonessoft contrast against dark backgroundStyle Keywordsultra realistic photography, cinematic portrait, hyper detailed human skin, natural beauty, documentary portrait realism, 8k resolution, sharp focus, shallow depth of field, professional portrait photography",
+    "image": "/api/image/1773468865972_4eszju.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-14T06:15:05.099Z"
+  },
+  {
+    "id": "mmnos6af",
+    "function": "Doodle #25",
+    "tags": [
+      "doodle"
+    ],
+    "prompt": "Potret studio hitam putih ultra realistis, vertikal 9:16. Seorang pria muda bergaya duduk di kursi lipat sederhana, men-genakan blazer hitam oversized, kaos hitam, celana jeans cutbray, dan sneakers tebal. Pose santai, kaki sedikit terulur ke depan, satu tangan bertumpu santai di kursi, memakai kacamata hitam, ekspresi percaya diri. Latar belakang studio polos putih dengan pencahayaan studio lembut, bayangan halus jatuh di lantai sebelah kanan. Di sekitar subjek terdapat ilustrasi doodle graffiti gambar tangan berwarna hitam, putih, dan oranye: kilat, garis zigzag, pusa-ran, panah, serta kata-kata motivasi: \"PURPOSE\", \"CREATE \"YOUR PATH\", \"FAITH\", \"BEAT\", \"UNIQUE\". Desain kontras tinggi, subjek monokrom bersih dengan sorotan doodle cerah. Ganti wajah dengan foto yang diunggah, tetap menjaga rambut, detail wajah, dan aksesori konsisten.",
+    "image": "/api/image/1773333153502_3sr81n.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-12T16:32:48.855Z"
+  },
+  {
+    "id": "mmnonbkj",
+    "function": "Doodle #24",
+    "tags": [
+      "doodle"
+    ],
+    "prompt": "Dont change my face (without glasses) and my hairstyle. Low angle street fashion editorial photo of a Y2K style model in oversized graphic T-shirt, loose army green cargo pants, and chunky Gen Z sneakers. Pose: model sitting casually on a colorful basketball court floor, one knee raised up while the other leg stretched out, one hand resting on the knee, the other relaxed. Head tilted slightly down, eyes staring di-rectly at the camera with an arrogant fashion expression. Shot on a mirrorless camera, slightly wide lens, natural light, realistic blue sky backdrop with Jakarta city landscape in wide frame. Ground surface is a cheerful outdoor basketball court with colorful painted lines.\nAdd bold and playful street doodle illustrations wrapping around the model and environment colorful flames rising behind and around the subject, big cartoon-like eyes floating, random cute big monsters placed on legs and background, flowing liquid shapes surrounding the body, bright flowers popping around, funky abstract strokes, oversized stickers, and dynamic typography scribbles in dominant bright neon tones (yellow, pink, cyan, orange, purple). Doodles should not be too small, vary their size, scatter randomly across the frame but still look organized and balanced, merging naturally with the subject, clothing folds, accessories, and the background walls.\nOverall vibe: vibrant funky Y2K, high-energy, playful, saturated colors sharp contrast, youthful street-culture aesthetic with a modern pop-art twist. Editorial but fun, mixed real photography with bold illus-tration overlay, creating a funky, colorful, surreal streetwear advertise-ment look. Soft-medium fisheye camera lense full capture.",
+    "image": "/api/image/1773332928060_ftpcyf.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-12T16:29:02.419Z"
+  },
+  {
+    "id": "mmnol9pe",
+    "function": "Creative #23",
+    "tags": [
+      "creative"
+    ],
+    "prompt": "Edit to A young man wearing a loose white and blue baseball jersey with the number 22 on the back, shorts, and boots, sits alone on the edge of a pool diving board (made to resemble a white surfboard) that juts out far above the wavy dark blue ocean. The man turns his head to the right and looks up, as if looking at the sky. The pose of both hands resting on the board and a straight back. The view is taken from a slightly higher perspective, showing the vastness of the ocean and the serenity of the atmosphere. The sky is not visible, only the focus is on the man and the water. without changing the shape of the hair and face.",
+    "image": "/api/image/1773332823747_tetp50.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-12T16:27:26.690Z"
+  },
+  {
+    "id": "mmnojive",
+    "function": "Person floating #22",
+    "tags": [
+      "creative"
+    ],
+    "prompt": "A surreal cinematic photo of a person floating weightlessly in mid-air under a single dramatic spotlight, surrounded by vast darkness. The figure appears to be gently suspended, body slightly arched backward with relaxed arms hanging downward, as if defying gravity. A flowing, elegant, men with pen coat   naturally and sways with a soft sense of motion, emphasizing the levitation. Lighting is high contrast with a cool bluish tone, spotlight cutting through subtle haze, creating a mystical and ethereal mood. Camera angle is low and tilted upward, reinforcing the illusion of elevation and height. The overall atmosphere feels dreamlike, otherworldly, and cinematic.",
+    "image": "/api/image/1773332752674_nahrr3.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-12T16:26:05.258Z"
+  },
+  {
+    "id": "mmnogg8m",
+    "function": "Restore old img #20",
+    "tags": [
+      "restore"
+    ],
+    "prompt": "Restore an old damaged photo to high quality. Repair scratches, tears, and faded areas while keeping the faces and details natural. Reconstruct missing parts with realistic texture. Enhance the skin tone to look original, smooth, and lifelike without over-editing. Colorize the image with natural, warm tones. Balance colors to match natural lighting, sharpen facial features, and preserve authenticity. Output in a photo-realistic style with high resolution, featuring a soft, blurred outdoor background with dappled sunlight, similar to a shallow depth of field portrait.\"",
+    "image": "/api/image/1773332609957_g4nmo2.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-12T16:23:41.878Z"
+  },
+  {
+    "id": "mmno8x6u",
+    "function": "Six grid #18",
+    "tags": [
+      "grid"
+    ],
+    "prompt": "six-image editorial collage arranged in a 2x3 grid, cohesive raw 90s zine fashion photography aesthetic, monochrome and desaturated film palette, heavy 35mm grain, scanned print texture, slight halation, imperfect focus and exposure, no text anywhere top-left panel: male subject in side/back profile, short textured wet-look hair tucked behind ear, subtle ear accessory or bare ear, structured coat or tailored jacket collar, soft diffused window light, quiet detached mood, shallow depth of field top-right panel: minimalist conceptual crop of multiple male hands gripping black sleeves/forearms against an off-white seamless background, graphic negative space, matte blacks, subtle finger motion softness, editorial fashion abstraction middle-left panel: experimental black-and-white male profile with eyes obscured by a thick horizontal shutter-drag smear across the face, strong left-to-right motion blur, high contrast shadows, optical long exposure feel, no digital glitch middle-right panel: gritty documentary editorial still of a male seated on the ground against worn wooden planks, legs forward, arms stretched wide to both sides, direct confrontational stare, harsh natural light, dirty textures, underground zine realism bottom-left panel: lo-fi archival upside-down male portrait near water, abstract ripples and blur, washed highlights, soft focus, edge fogging, vignette, diary artifact feel bottom-right panel: minimalist cinematic monochrome shot of a solitary male figure from behind on an empty beach wearing a long dark overcoat, overcast haze, large negative space, melancholic ending frame consistent analog look across all six panels, no typography, no captions, no logos, no watermarks --ar 4:5 --raw --stylize 300",
+    "image": "/api/image/1773332239706_0hx0il.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-12T16:17:50.598Z"
+  },
+  {
+    "id": "mmno5nze",
+    "function": "With Horse portrait",
+    "tags": [
+      "portrait"
+    ],
+    "prompt": "Contrasty artistic editorial photography of a young man based on the reference image, preserving identity. He is seated low on a minimalist metal stool in an open natural landscape overgrown with wild grass. His legs are stretched forward, feet firmly planted on the ground. He is wearing dark, layered clothing: a structured jacket, wide trousers, rugged leather boots, and dark sunglasses. His hair is loose and styled naturally. One hand rests freely between his knees, holding thin leather reins, ins, conveying a sense of calm control. His posture is slightly slouched, shoulders relaxed, head tilted slightly downward, with a calm, thoughtful, and confident expression. a A ring of fire blazes on the ground, surrounding him. Directly behind him stands a powerful horse, its body partially overlapping his his silhouette in the frame. The horse emits subtle sparks of fire and smoldering ember effects, enhancing the intensity without compromising realism The scene takes place at night, with a dark cinematic background, rich in contrast and colored glints of fire reflecting on skin, fabric, and metal. Shot in a medium format with a cinematic look, shallow depth of fieid, dramatic lighting, in the style of editorial luxuгу photography, with subtle textures, ultra-detailed, sharp, with artistic composition and atmospheric mood. Style Keywords: cinematic, fine art, editorial Luxury, dramatic lighting, high contrast, night photography, powerful symbolism, fashion photography, ultra-realism. Hair is black, wet, curly, chin-length. Strictly preserve from the first attached photo, without distortions. Focus on facial details, skin texture, as well as the textures of the costume,",
+    "image": "/api/image/1773332106436_1071t3.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-12T16:15:18.698Z"
+  },
+  {
+    "id": "mmno3cmp",
+    "function": "Graffiti #16",
+    "tags": [
+      "headshot"
+    ],
+    "prompt": "Gritty black-and-white street portrait with heavy film grain, high contrast, and raw photocopy/zine texture. Scene: a dense urban wall layered with torn posters, wheatpaste residue, ripped typography, sticker fragments, grime, scratches, and chaotic overlapping paper textures. Large readable word fragments like “NIGHT” appear multiple times among partially torn letters. Background completely filled, no empty space, no modern minimal look. SUBJECT (center-left): Young man, early 20s, framed waist-up. Body angled right, mostly turned away from camera, head rotated back over left shoulder giving a sharp, controlled side-eye toward lens. Expression calm, slightly intense, neutral lips. Defined but natural jawline. Realistic skin texture with visible pores, subtle cheekbone shadow. No smoothing, no beautification. HAIR: Medium-length textured hair, slightly messy, dark tone (deep grey in B). Natural volume, imperfect strands near forehead. Matte finish, not styled. OUTFIT: Black turtleneck or minimal crewneck sweater, matte fabric, no logos, no accessories. Subtle folds visible, blending into darker tones. NEON-YELLOW OVERLAY (only color in image): Bold paint-marker scribbles across entire frame. Top: long sweeping tag line. Center: rough rectangular box highlighting poster area with small handwritten “intro”-like scribble inside. Left: thick block strokes and diagonal hatch lines over text. Right: tall vertical strokes, arrows, loops, dense scribble cluster in top-right. Opaque, streaky, imperfect marker texture. COMPOSITION: Eye-level, 35–50mm lens look, medium close portrait. Subject sharp, background slightly softened but readable. No motion blur. Strong grain, subtle vignette, slight halation in highlights. Raw underground editorial aesthetic. STRICT: No extra colors, no extra people, no props, no studio look, no clean background.",
+    "image": "/api/image/1773331987886_4pqaup.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-12T16:13:30.673Z"
+  },
+  {
+    "id": "mmno21ff",
+    "function": "Minecraft #15",
+    "tags": [
+      "minecraft",
+      "filter"
+    ],
+    "prompt": "(\"task\": \"image_transformation\", \"style\": { \"overall_aesthetic\": \"High-quality cinematic Minecraft screenshot.\". \"rendering_technique\": \"Mixed-media: Photorealistic subject embedded in a voxel-based environment.\"}, \"subject rules\": { \"main subject\": \"The human person from the reference image must remain completely photorealistic and unchanged. No pixelation or block filters on their body, clothing, or face.\", \"interacting_objects\": \"CRITICAL: Any non-human object in direct physical contact with the subject e.g. or nearby pets dogs MUST be converted into Minecraft block models or mobs. A real dog becomes a Minecraft wolf.\"), \"environment_rules\": { \"background_analysis\": \"Analyze the reference image background structure and recreate it entirely out of Minecraft voxel blocks.\", \"elements\": \"Trees, terrain, paths, and foliage must be cubic blocks with pixel art textures.\", \"atmosphere\": \"Replicate the foggy forest atmosphere using blocky volumetric fog layers appropriate for Minecraft.\" }, \"composition_and_lighting\": { \"camera\": \"Maintain the exact camera angle and framing from the reference photo.\", \"lighting\": \"Minecraft daylight with gentle haze and consistent block-based shadows.\"}} enhance",
+    "image": "/api/image/1773331927361_lhlwmg.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-12T16:12:29.499Z"
+  },
+  {
+    "id": "mmno0lrs",
+    "function": "Viral headshot",
+    "tags": [
+      "headshot"
+    ],
+    "prompt": "Use the attached face/subject reference as absolute identity ground truth. Preserve the exact facial structure, proportions, skin tone, bone structure, jawline, nose shape, lip shape, eye shape, and natural asymmetry of the referenced person. Do not beautify, stylize, enhance, or modify the face in any way. Maintain real skin texture, pores, and natural imperfections exactly as in the reference. Identity accuracy is critical and must remain consistent with the reference without reinterpretation. Create a raw street portrait captured in bright natural daylight using long-exposure photography. Frame vertically in a 4:5 ratio as a medium close-up from chest upward with slight camera proximity but not a tight crop. The subject stands still in the center of a fast-moving urban crowd, body steady and eyes looking directly into the camera, with hair subtly affected by ambient air movement. Simulate a realistic shutter speed around 1/4 to 1/8 second so the subject remains relatively stable while surrounding pedestrians move quickly, producing strong horizontal motion streaks. Motion blur must appear physically captured in-camera: layered, uneven, and naturally overlapping across the frame, partially passing over the subject and with foreground motion creating translucent streaks in front of the lens. Avoid radial blur, gaussian blur, artificial depth blur, or any digital motion simulation blur must feel optically real from long exposure. Keep the eyes relatively sharper than the rest of the frame but not hyper-sharp, allowing slight global softness from the long exposure and avoiding any artificial clarity or over-sharpening. Lighting should be bright natural daylight with soft highlights on the hair, gentle highlight bloom, and natural contrast. Preserve fine film grain, subtle chromatic noise in shadow areas, and slight exposure imperfections for realism. Use natural daylight color tones with warm but realistic skin tones and a neutral urban background.",
+    "image": "/api/image/1773331871450_hn1okl.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-12T16:11:22.552Z"
+  },
+  {
+    "id": "mmnnxhvu",
+    "function": "Car standing #13",
+    "tags": [
+      "car"
+    ],
+    "prompt": "Create an High-contrast nighttime street photograph with a gritty underground Japanese car culture aesthetic. Subject stands casually leaning against a white Japanese sports car (Bmw M5 New Model Competition Modified MK4 style), shot with harsh on-camera flash. Ratio 9:16",
+    "image": "/api/image/1773331698346_0zinsi.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-12T16:08:57.546Z"
+  },
+  {
+    "id": "mmnnduy2",
+    "function": "Car with man #12",
+    "tags": [
+      "gemini"
+    ],
+    "prompt": "your Al looks fake you BLACK FILE fued that The hair is black, wet, cuchi Stratly preceive ac in the ato neg firat thout distom We are presented with an avant-garde cinematic editonal photograph. The object sits in a low pocition iroide a black car, in the driver's seat with the front door open Ohe nano rests confidently on the steering wheel, the torso a slightly leaming forward The head is bowed down, conveying a calm, introcpective and emotionally restrained mood The subject ic wearing dark oversized mut-Hayered clothing with a textured structure, wide classic-cuttrousers, and poichead leather boots Dark sunglasses hide the eyes enhancing a mysterious timeless presence The scene unfolds against an open lanaccape with wild tall graco leading into a blown-out.cky which created extenze negative space The lighting is high-contract yet controlled with with cot cot faile failoff and delicate highlights The image nat a matte cinematic finish with a clight film grain minimal color saturation, and the depth and clarity characteristic of medium format A timeless, minimalist, fashion-onented aesthetic with a cinematic editical tone, shot in ultra-high resolution 4x quality, it has a menty: natural finan Fade Taper Fade Dides and back are quequally quequally faced, not too Medium-length top Gives that airy stylich look",
+    "image": "/api/image/1773330771371_zcqzr7.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-12T15:53:41.354Z"
+  },
+  {
+    "id": "mmnmvzkz",
+    "function": "Dark Soft Flash",
+    "tags": [
+      "dark",
+      "flash"
+    ],
+    "prompt": "An 8K ultrarealistic close shot of a man with fair skin , (face characteristics 100% same as uploaded image) with windswept black hair partially covering one eye. A sharp diagonal natural light beam illuminates his elevated gaze, showcasing his light irises, high cheekbones, and natural color lips.\n\nDeep shadows envelop the rest of his face and the environment, creating a dark, cinematic, editorial mood.",
+    "image": "/api/image/1773329905190_ox6c5w.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-12T15:39:47.555Z"
+  },
+  {
+    "id": "mmnlvpxt",
+    "function": "night portrait #11",
+    "tags": [
+      "night",
+      "portrait"
+    ],
+    "prompt": "Keep my face exactly same and don't change or edit my face and create A flash photography portrait of a cool, stylish young East Asian woman sitting casually in a cafe setting. She has long, slightly messy straight black hair and a calm, confident, slightly moody expression, looking directly at the camera. She is wearing an oversized, light blue, unbuttoned collared shirt over a black top, paired with dark grey denim jeans and black-and-white retro sneakers. The sleeves of the blue shirt are exceptionally long, extending past her hands. She is sitting in a modern chair with a curved grey upholstered back and light wood legs. Her right elbow rests on a rustic, round wooden table with a black metal base, and her right hand is lightly resting against her cheek. Her left leg is crossed over her right knee, resting casually. The background is a minimalist, plain off-white wall. The lighting is direct, hard flash from the camera front, creating distinct, sharp drop shadows on the wall behind her, giving it a raw, candid, point-and-shoot 35mm film aesthetic with slight film grain the camera little bit far from me and the image quality 8k High resolution",
+    "image": "/api/image/1773328279975_1n2ij9.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-12T15:11:35.441Z"
+  },
+  {
+    "id": "mmnlmjbt",
+    "function": "fix blurry img #10",
+    "tags": [
+      "bluery"
+    ],
+    "prompt": "Enhance the existing photo only — keep the original framing, angle, composition, and facial proportions exactly the same. Do not crop, zoom, or convert to a close-up. Improve overall image clarity and sharpness naturally, with special attention to eye detail while keeping the full face and original framing intact. Refine focus slightly for better definition without making it overly sharp. Apply soft, natural cinematic lighting correction, preserving realistic shadows and depth already present in the image.\n\nEnhance natural skin texture with visible pores and fine details — no beauty smoothing, no skin softening.\n\nRemove digital noise and compression artifacts while retaining organic texture.\n\nImprove dynamic range and contrast subtly, with muted highlights and rich mid-tones.\n\nMaintain accurate, organic skin tones with realistic color balance.\n\nAdd very subtle cinematic film grain for a professional movie-still look.Background should remain exactly as it is, only slightly cleaner if noisy - no artificial blur added.\n\nPreserve all facial features, expressions, hair strands, and natural imperfections.\n\nPhotorealistic result, professional camera look, high-quality enhancement only - no stylization.\n\nNEGATIVE PROMPT (CRITICAL)\n\nclose-up, zoomed-in, cropped face, changed framing, face alteration, reshaped features, beauty filter, oversmoothed skin, plastic skin, waxy texture, Al face, cartoon, anime, CGI, illustration, painting, artificial blur, fake bokeh, harsh lighting, flat lighting, over-sharpening, halos, HDR look, distorted eyes, asymmetry, extra details, digital artifacts, smartphone filter look.\n\n3O: RECOMMENDED SETTINGS (IMPORTANT)\n\nImage-to-Image Strength / Denoise: 0.15 - 0.30\n\nCFG / Guidance: 5-7\n\nSteps: 25 - 35\n\nFace Restoration: OFF\n\nUpscale: After final result only (2x max)\n\nSeed: Fixed (for consistency)",
+    "image": null,
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-12T15:04:26.969Z"
+  },
+  {
+    "id": "mmnld7lw",
+    "function": "night glow #9",
+    "tags": [
+      "night"
+    ],
+    "prompt": "apply a boid\n\nnight-flash aesthetic to the uploaded photo while\n\nfully preserving every original detail of the image.\n\nHard rule: Do NOT change, reshape, beautify, replace, or alter the subject's face or hair in any way. Face identity, facial structure, skin details, and hair must remain 100% identical to the original photo. Pose, Composition & Framing (LOCKED) Keep the exact same pose, posture, body position, camera angle, framing, crop, and perspective Do NOT move, rotate, resize, or reposition the subject Do NOT alter lens characteristics, focal length, or framing Composition must remain pixel-identical, except\n\nfor lighting effects. Lighting & Mood Maintain a dark, deep, realistic nighttime environment Preserve all existing shadows, silhouettes, and background details Do NOT brighten or modify the background, except for subtly enhancing existing point lights Illuminate the subject using a strong, warm, direct front-facing flash The subject must be the brightest element in the entire frame Flash focused on the face and upper body Strong separation between bright highlights and soft, deep shadows for a cinematic high-contrast look Add subtle lens bloom, light haze, and a thin atmospheric glow around the face and shoulders Render skin with luminous translucency and gentle peachy tones Enhance stray hair strands with soft backlit highlights Do NOT alter face texture, facial structure, or hair shape Final Goal: Create a cinematic night-flash portrait, with foreground blur and depth layers, while keeping the subject's face, pose, and composition perfectly untouched.\"",
+    "image": "/api/image/1773327412083_gei4dq.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-12T14:57:11.876Z"
+  },
+  {
+    "id": "mmnlbui2",
+    "function": "night warm glow",
+    "tags": [
+      "night"
+    ],
+    "prompt": "apply a boid night-flash aesthetic to the uploaded photo while\n\nfully preserving every original detail of the image.\n\nHard rule: Do NOT change, reshape, beautify, replace, or alter the subject's face or hair in any way. Face identity, facial structure, skin details, and hair must remain 100% identical to the original photo. Pose, Composition & Framing (LOCKED) Keep the exact same pose, posture, body position, camera angle, framing, crop, and perspective Do NOT move, rotate, resize, or reposition the subject Do NOT alter lens characteristics, focal length, or framing Composition must remain pixel-identical, except\n\nfor lighting effects. Lighting & Mood Maintain a dark, deep, realistic nighttime environment Preserve all existing shadows, silhouettes, and background details Do NOT brighten or modify the background, except for subtly enhancing existing point lights Illuminate the subject using a strong, warm, direct front-facing flash The subject must be the brightest element in the entire frame Flash focused on the face and upper body Strong separation between bright highlights and soft, deep shadows for a cinematic high-contrast look Add subtle lens bloom, light haze, and a thin atmospheric glow around the face and shoulders Render skin with luminous translucency and gentle peachy tones Enhance stray hair strands with soft backlit highlights Do NOT alter face texture, facial structure, or hair shape Final Goal: Create a cinematic night-flash portrait, with foreground blur and depth layers, while keeping the subject's face, pose, and composition perfectly untouched.\"",
+    "image": "/api/image/1773327318126_euvsie.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-12T14:56:08.234Z"
+  },
+  {
+    "id": "mmnkquxc",
+    "function": "Lighting fix filter",
+    "tags": [
+      "filter"
+    ],
+    "prompt": "Apply a bold night-flash aesthetic to the uploaded photo while fully preserving every original detail of the...and shoulders. Render skin with luminous translucency and gentle peachy tones. Enhance stray hair strands backlit by sunlight. Hard rule: Do not change the face and hairs of the subject. Do not change the composition and background.",
+    "image": "/api/image/1773326325584_g53dkn.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-12T14:39:49.008Z"
+  },
+  {
+    "id": "mmnkgspm",
+    "function": "B&W studio light",
+    "tags": [
+      "studio",
+      "model"
+    ],
+    "prompt": "Change the background to a clean, professional studio white background. The subject should remain sharp and natural, with soft, even studio lighting, minimal shadows, and High-key look, realistic colors, and smooth edges around the subject.” Keep the face as same and change the lighting to very ultra realistic studio lighting and also keep the cutout as clean as possible if someone looks they think it was taken in the studio give a one side lighting and keep the photo black and white",
+    "image": "/api/image/1773325883512_0xjm83.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-12T14:31:59.578Z"
+  },
+  {
+    "id": "mmngknh1",
+    "function": "night flash face card",
+    "tags": [
+      "night",
+      "flash"
+    ],
+    "prompt": "Use my uploaded photo as the base reference and KEEP MY FACE EXACTLY THE SAME - no face changes, no reshaping, no beautifying, no altering of facial features, skin tone, eye color, nose, lips, or expression. Create a high-flash, grainy 35mm film photograph taken at night. I am leaning casually against a light beige brick wall. I'm wearing a white ribbed tank top layered under an oversized, shiny black puffer jacket that's slightly falling off my shoulders. Add layered chunky silver chain necklaces including a cross pendant, and multiple silver rings on both hands.\n\nMy hair should look dark, messy, and tousled with soft volume and natural texture. The lighting should be harsh direct camera flash, slightly overexposed highlights, visible film grain, soft shadows behind me, and a candid early-2000s paparazzi vibe. Color tone should be slightly warm with natural skin texture visible (no heavy smoothing). Keep the mood effortless, cool, and slightly melancholic.\n\nCamera angle: medium close-up, slightly tilted framing, intimate and raw composition.",
+    "image": "/api/image/1773319324748_rp4t22.jpg",
+    "author": "Kjbd",
+    "author_id": 7785698936,
+    "date": "2026-03-12T12:43:00.949Z"
+  },
+  {
+    "id": "mmews0c5",
+    "function": "High end product",
+    "tags": [
+      "product"
+    ],
+    "prompt": "A high-end commercial product photography shot of a luxury men's perfume bottle. The bottle is made of dark, translucent violet-blue glass with a geometric, multi-faceted hexagonal body. It features a textured, dark charcoal cylindrical cap with distinct industrial, metallic silver bolt- like protrusions on its sides. The bottle has a circular, matte white label in the center with black typography that prominently reads \"TOOL BOX\" and \"VIOLET DREAMS\", surrounded by curved text reading \"MASCULINITY\n\nMEETS LUXURY\" and \"THE EMPOWERMENT\". The bottle is placed perfectly upright, resting on a rough, dark charcoal-colored, rectangular concrete plinth. To the left side, slightly out of focus in the foreground, are rich, dark green, glossy plant leaves subtly framing the subject. The background is a dramatic, moody, dark thunderstorm sky filled with swirling, deep navy and grey clouds. A bright, jagged, multi-pronged white",
+    "image": "/api/image/1772802399506_7wnsce.jpg",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-03-06T13:06:42.485Z"
+  },
+  {
+    "function": "Quality 4k",
+    "prompt": "Ultra-detailed photorealistic skin: texture enhancement.\n\nPreserve original face, proportion expression and pose 1:1. Natural skin micro-relief with visible pores, fine skin grain, subel uneven texture.\n\nMicro wrinkles around eyes, [ips. and nasolabial area, delicate natural creases. Visible vellus facial hair (peach fuzz) on cheeks, forehead and upper lip,\n\nvery fine and realistic.\n\nNatural skin imperfections: tiny\n\nkles, micro redness, slight tonal variation\n\nRealistic glossy highlights on skin, true light reflection, no artificial shine\n\nHigh-resolution beauty macro clarity, epidermis-level detail.\n\nProfessional studio lighting emphasizing texture, soft directional light,\n\ncontrolled highlights.\n\nShot on high-end full-frame camera, macro lens, RAW photo realism.\n\nZero retouching, zero smoothing, no beauty filters, no Al plastic skin.\n\nShot on high-end full-frame camera 85-105mm lens shallow depth of held, extreme realism,\n\nRAW photo look, editorial beauty photography, zero retouching, no Al plastic skin",
+    "image": null,
+    "date": "2026-02-18T01:24:20.677Z",
+    "id": "mlrjdwjd"
+  },
+  {
+    "function": "Dark Demon",
+    "tags": [
+      "gothic"
+    ],
+    "prompt": "Transform this mirror selfie into a dark, cinematic fantasy scene.\n\n-Keep the person exactly the same same face, pose, outfit, lighting, and background. Add a shadowy, smoke-like demonic entity emerging from behind the person's back. The entity should be made of swirling black smoke, semi-transparent, with glowing white eyes. The smoke wraps around the body and flows down to the floor naturally, blending with the environment.\n\nMaintain realistic shadows, reflections, and depth so the creature feels part of the scene.\n\nDark, moody atmosphere, high contrast, cinematic lighting, ultra-realistic, 4K quality.\n\nNo change to facial features, clothing, or camera angle",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-02-18T03:20:23.311Z",
+    "id": "mlrjdwje"
+  },
+  {
+    "function": "Dark Wings",
+    "tags": [
+      "gothic",
+      "gemini"
+    ],
+    "prompt": "Transform this image into a dark, cinematic street-art fantasy scene.\n\nKeep the person exactly the same - same body, pose, clothing, proportions, angle, and lighting. Do not change the face, outfit, or posture.\n\nAdd three large metallic gothic crosses emerging from the wall behind the person's back, arranged diagonally like wings.\n\nThe crosses should look chrome / silver metal, sharp-edged, reflective, and slightly worn.\n\nThe crosses must appear embedded into the wall, glowing subtly with white highlights and emitting a faint smoky aura where they break through the concrete.\n\nMaintain realistic shadows, reflections, and depth so the crosses feel physically present and heavy. Overall mood: dark, cinematic, high-contrast, monochrome, gritty urban aesthetic. Ultra-realistic, dramatic lighting, sharp focus, editorial fashion photography style.",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-02-18T03:12:59.179Z",
+    "id": "mlrjdwjf"
+  },
+  {
+    "function": "Spotify 3D AR",
+    "tags": [
+      "3d"
+    ],
+    "prompt": "A cinematic, dreamlike AR visual featuring a central 193 photo realistic person surrounded by floating 3D Spotify/apple music interface cards. The cards orbit the subject at varying depths- some in the foreground obscuring the figure, others drifting behind. Style Translucent frosted glass with glowing borders and rounded edges.Lightning:natural tones, Enhance the photo quality includes depth of field (blurred background cards) and motion accents, highlighting [seedhe maut songs: luka chippi, 11K, Kohra, DL91FM 101, ball, SRK player interfaces",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-02-18T03:01:22.459Z",
+    "id": "mlrjdwjg"
+  },
+  {
+    "function": "Face consistency",
+    "tags": [
+      "snippet",
+      "face lock"
+    ],
+    "prompt": "IMPORTANT - FACE LOCK Keep the subject's real face exactly the same as the reference image. Do NOT change facial structure, jawline, eyes shape, nose, lips, skin tone, beard, hairline, age, or expression. Maintal 100% identity accuracy. No beautification, no face swapping, no Al alteration. Preserve natural skin texture, pores, asymmetry, and imperfections. The person must be instantly recognizable as the same individual",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-02-18T02:58:30.879Z",
+    "id": "mlrjdwjh"
+  },
+  {
+    "function": "Hairstyle grid",
+    "tags": [
+      "hairstyle",
+      "gemini"
+    ],
+    "prompt": "...Analyze the single image 1 upload. Identify my exact\n\nface shape and hair type with precision. Then generate a vertical 9:16 4K 3x3 grid of hairstyle reference images directly on my face. Requirements: Analyze the uploaded image to detect: Face shape, Hair density, texture, curl pattern, and growth direction. Based on this analysis, recommend haircuts for three scenarios:\n\nProfessional or workplace, University or college, School\n\nor teenage. Provide 4 haircut options per scenario, each\n\nwith a short, specific explanation of why it suits my\n\ngeometry and hair behavior. After the recommendationg0.7K\n\ngenerate a 3x3 grid of haircut images, each placed\n\nrealistically on my face. Technical requirements: Vertical\n\n9:16 orientation, 4K quality, Realistic lighting, Natural hair\n\nflow and believable texture, No fantasy looks or\n\nexaggerated Al styling. Variation rules for the 3x3 grid:\n\nMix short, medium, and slightly longer styles, Reflect the\n\nrecommended haircuts, Maintain consistency with my\n\nreal hair type and proportions. Output must be\n\nstructured, clean, and easy to compare across\n\nscenarios. Your goal is accuracy, realism, and\n\nprofessional grooming quality",
+    "image": null,
+    "date": "2026-02-18T02:49:19.298Z",
+    "id": "mlrjdwji"
+  },
+  {
+    "function": "Beach portrait aesthetic",
+    "tags": [
+      "portrait",
+      "aesthetic",
+      "gemini"
+    ],
+    "prompt": "Use the uploaded reference photo as the single\n\nand exclusive facial identity source. The same exact face must appear in ALL three frames with no variation.\n\nDo not reinterpret, regenerate, beautify, or modify the face between frames.\n\nFacial identity has highest priority over lighting, angle, blur, or realism.\n\nUltra-realistic vertical image split equally into three stacked frames (top / middle / bottom) within one single photo. All frames show the same person with the same face, same outfit, same location, captured seconds apart like a burst of candid smartphone shots. Only subtle movement changes. Feels accidental, real, and human. Location & background:\n\nOpen beach night at a modern resort outdoors at night. Wooden tent in background, Warm lights glowing softly near the tent. Dark night sky visible. Beachy atmosphere. Real, moment - not staged. Outfit (locked):\n\nLime green vertically striped button-down shirt, top buttons open showing slight chest. Full Sleeves rolled to forearms. High-waisted cream tailored trousers. Metal wristwatch on one wrist. No jacket, no accessories beyond the watch.\n\nHair & Face (LOCKED)\n\nMedium-length, thick, naturally wavy hair\n\nSlightly messy, lived-in texture\n\nLight stubble / short beard\n\nReal skin texture, visible pores\n\nNo smoothing, no beautification\n\nFRAME BREAKDOWN (VERY IMPORTANT)\n\nTOP FRAME - BACK SHOT\n\nBack view of the subject.\n\nHe is touching the back of his hair near the neck,\n\nfingers slightly tangled in hair.\n\nHead tilted slightly down and to the side. Relaxed posture, candid movement.\n\nHair texture clearly visible from behind.\n\nMIDDLE FRAME close up\nTight close-up near the eyes and upper face. Messy strands of hair falling naturally near the eyes.\n\nEyes partially visible, soft focus.\n\nVery slight motion softness from movement. Feels intimate, accidental, not posed.\n\nBOTTOM FRAME - MID SHOT\n\nMid-shot from waist or chest up.\n\nSubject leaning casually against the railing.\n\nLooking sideways, not at the camera.\n\nExpression calm, confident, contemplative.\n\nNatural posture, effortless presence.\n\nLighting (LOCKED)\n\nWarm artificial wall lighting mixed with cool night ambient light.\n\nSoft illumination on face and shirt",
+    "image": null,
+    "date": "2026-02-18T02:18:45.791Z",
+    "id": "mlrjdwjj"
+  },
+  {
+    "function": "Night flash glow",
+    "tags": [
+      "night",
+      "flash"
+    ],
+    "prompt": "apply a boid\n\nnight-flash aesthetic to the uploaded photo while\n\nfully preserving every original detail of the image.\n\nHard rule: Do NOT change, reshape, beautify, replace, or alter the subject's face or hair in any way. Face identity, facial structure, skin details, and hair must remain 100% identical to the original photo. Pose, Composition & Framing (LOCKED) Keep the exact same pose, posture, body position, camera angle, framing, crop, and perspective Do NOT move, rotate, resize, or reposition the subject Do NOT alter lens characteristics, focal length, or framing Composition must remain pixel-identical, except\n\nfor lighting effects. Lighting & Mood Maintain a dark, deep, realistic nighttime environment Preserve all existing shadows, silhouettes, and background details Do NOT brighten or modify the background, except for subtly enhancing existing point lights Illuminate the subject using a strong, warm, direct front-facing flash The subject must be the brightest element in the entire frame Flash focused on the face and upper body Strong separation between bright highlights and soft, deep shadows for a cinematic high-contrast look Add subtle lens bloom, light haze, and a thin atmospheric glow around the face and shoulders Render skin with luminous translucency and gentle peachy tones Enhance stray hair strands with soft backlit highlights Do NOT alter face texture, facial structure, or hair shape Final Goal: Create a cinematic night-flash portrait, with foreground blur and depth layers, while keeping the subject's face, pose, and composition perfectly untouched.\"",
+    "image": null,
+    "date": "2026-02-18T02:11:57.913Z",
+    "id": "mlrjdwjk"
+  },
+  {
+    "function": "Uncomposed Snapshot",
+    "tags": [
+      "gemini",
+      "snapshot"
+    ],
+    "prompt": "Create an image of a selfie, without any clear subject or composition-just a random blueish snapshot taken unintentionally. The image should have slight motion blur and consistent lighting from streetlights. Both characters are together in the selfie and the image size ratio is 4:5 and does not change the facial features",
+    "image": null,
+    "date": "2026-02-18T02:08:19.487Z",
+    "id": "mlrjdwjl"
+  },
+  {
+    "function": "Raw Flash Snapshot",
+    "tags": [
+      "snapshot"
+    ],
+    "prompt": "Using the attached photo as a facial reference, preserve the person's facial identity accurately. Maintain the same facial structure, proportions, and key features. Do not stylize, replace, or alter the identity. A close-up photograph of a young woman displayed on the LCD screen of a compact Canon digital camera. The camera body frames the image, with physical buttons, dials, and textured plastic clearly visible, including the FUNC/SET wheel, the DISP button, and the \"IMAGE STABILIZER\" label along the side of the camera body.\n\nOn the camera screen, the photo shows the same woman indoors at night, captured with a built-in flash. The harsh direct flash creates sharp highlights on her face and hair, emphasizing skin texture and natural imperfections. She has long dark hair falling loosely across part of her face, with a soft, slightly open-lip expression that feels candid and unposed.\n\nThe background is a dim, cluttered kitchen environment with appliances, shelves, and metallic surfaces, softly blurred due to flash falloff and shallow depth. The contrast between the bright flash flash and the low ambient light creates a raw, documentary feel.\n\nThe overall mood is candid, raw, and nostalgic, reminiscent of early 2000s compact digital camera snapshots. Colors are slightly muted with cool undertones, strong flash contrast, subtle digital noise, and authentic LCD screen grain and glow. No text, no logos, and no Ul overlays inside the photo preview itself.",
+    "image": null,
+    "date": "2026-02-18T02:04:32.921Z",
+    "id": "mlrjdwjm"
+  },
+  {
+    "function": "Nostalgic Snapshot Aestheti",
+    "prompt": "Using the attached photo as a facial reference, preserve the person's facial identity accurately and consistently. Keep the original facial structure, proportions, and key features intact. Do not alter, stylize, or replace the face.\n\nCreate a portrait of the same young woman, captured with a 1990s-style camera using a harsh direct front flash. The flash creates a bright, nostalgic glow with strong contrast and natural falloff into the background. She has messy dark brown hair tied up loosely, with a calm yet playful smile that feels natural and unposed. Her skin appears porcelain-white under the flash, with realistic texture and subtle imperfections preserved. She is wearing a modern oversized cream sweater, adding a soft contrast to the harsh flash lighting.\n\nThe background is a dark white wall covered with aesthetic magazine posters and stickers, suggesting a cozy personal bedroom atmosphere. The ambient lig light is low, allowing the flash to dominate the scene while the background remains softly visible. Shot on a 35mm lens with on-camera flash, shallow depth of field, and authentic 1990s point-and-shoot aesthetics. Colors are slightly muted, with cool undertones, subtle grain, and a raw, nostalgic snapshot feel.",
+    "image": null,
+    "date": "2026-02-18T02:02:40.826Z",
+    "id": "mlrjdwjn"
+  },
+  {
+    "function": "Cinematic Character Poster",
+    "prompt": "A cinematic movie poster style image with a strict 4:5 aspect ratio, shot from a perfectly vertical 90 degree top down camera angle. A single person of my choosing stands exactly at the center of the frame, looking straight up at the camera, where the person’s gender, age, ethnicity, facial features, hairstyle, and body type can be changed as needed for each generation. Beneath the person is a detailed architectural blueprint floor in teal blue tones, filled with precise orange technical line drawings, measurements, arrows, circular markings, and schematic elements. A large circular compass or targeting dial is perfectly aligned under the subject, reinforcing symmetry and focus. The lighting is cinematic and controlled, with a soft overhead spotlight creating defined shadows around the person. The color palette is limited to teal blue, cyan, and warm orange accents for high contrast and graphic clarity. The person is wearing [fully customizable outfit including jacket, inner layer, pants, and shoes], styled intentionally based on the desired character or brand direction. The composition is minimal, sharp, and highly structured, with a professional film marketing poster aesthetic, ultra high detail, crisp focus, and cinematic color grading. No text, no logos, no typography, no watermarks.",
+    "image": null,
+    "date": "2026-02-18T02:01:32.929Z",
+    "id": "mlrjdwjo"
+  },
+  {
+    "function": "Quality 2",
+    "prompt": "Ultra-high-resolution 4K enhancement based strictly on the provided reference image. Absolute fidelity to original facial anatomy, proportions, and identity. Preserve expression, gaze, pose, camera angle, framing, and perspective with zero deviation. Clothing, hair, skin, and background elements must remain unchanged in structure, placement, and\n\ndesign. Recover fine-grain detail with natural realism. Enhance pores, fine lines, hair strands, eyelashes, fabric weave, seams, and material edges without introducing stylization. Maintain original color science, white balance, and tonal relationships exactly as captured. Lighting direction, intensity, contrast, and shadow behavior must match the source image precisely, with only improved clarity and expanded dynamic range. No relighting, no reshaping. Remove any grain. Apply controlled sharpening and high-frequency detail reconstruction. Remove compression artifacts and noise while retaining authentic texture. No smoothing, no plastic skin, no artificial gloss. Facial features must remain consistent across the entire image with coherent anatomy and clean, stable edges. Negative constraints: no warping, no facial drift, no added or missing anatomy, no altered hands, no distortions, no perspective shift, no text or graphics, no hallucinated detail, no stylized rendering. Output must read as a true-to-life, photorealistic upscale that matches the reference exactly, only clearer, sharper, and higher resolution.",
+    "image": null,
+    "date": "2026-02-18T01:50:45.868Z",
+    "id": "mlrjdwjp"
+  },
+  {
+    "function": "Night flash",
+    "prompt": "Apply a boid night-flash aesthetic to the uploaded photo while fully preserving every original detail of the image. Hard rule: Do NOT change, reshape, beautify, replace, or alter the subject's face or hair in any way. Face identity, facial structure, skin details, and hair must remain 100% identical to the original photo. Pose, Composition & Framing (LOCKED) Keep the exact same\n\npose, posture, body position, camera angle, framing, crop, and perspective Do NOT move, rotate, resize, or reposition the subject Do NOT alter lens characteristics, focal length, or framing Composition must remain pixel-identical, except for lighting effects. Lighting & Mood Maintain a dark, deep, realistic nighttime environment Preserve all existing shadows, silhouettes, and background details Do NOT brighten or modify the background, except for subtly enhancing existing point lights Illuminate the subject using a strong, warm, direct front-facing flash The subject must be the brightest element in the entire frame Flash focused on the face and upper body Strong separation between bright highlights and soft, deep shadows for a cinematic high-contrast look Add subtle lens bloom, light haze, and a thin atmospheric glow around the face and shoulders Render skin with luminous translucency and gentle peachy tones Enhance stray hair strands with soft backlit highlights Do NOT alter face texture, facial structure, or hair shape Final Goal: Create a cinematic night-flash portrait, with foreground blur and depth layers, while keeping the subject's face, pose, and composition\n\nperfectly untouched",
+    "image": null,
+    "date": "2026-02-18T01:48:58.253Z",
+    "id": "mlrjdwjq"
+  },
+  {
+    "function": "Minecraft style",
+    "prompt": "{ “task”: “image_transformation”,\n“style”: {\n“overall_aesthetic”: “High-quality cinematic Minecraft screenshot.”,\n“rendering_technique”: “Mixed-media: Photorealistic subject embedded in a voxel-based environment.”\n},\n“subject_rules”: {\n“main_subject”: “The human person from the reference image must remain completely photorealistic and unchanged. No pixelation or block filters on their body, clothing, or face.”,\n“interacting_objects”: “CRITICAL: Any non-human object in direct physical contact with the subject e.g. or nearby pets dogs MUST be converted into Minecraft block models or mobs. A real dog becomes a Minecraft wolf.”\n},\n“environment_rules”: {\n“background_analysis”: “Analyze the reference image background structure and recreate it entirely out of Minecraft voxel blocks.”,\n“elements”: “Trees, terrain, paths, and foliage must be cubic blocks with pixel art textures.”,\n“atmosphere”: “Replicate thefoggy forest atmosphere using blocky volumetric fog layers appropriate for Minecraft.”\n},\n“composition_and_lighting”: {\n“camera”: “Maintain the exact camera angle and framing from the reference photo.”,\n“lighting”: “Minecraft daylight with gentle haze and consistent block-based shadows.”\n}\nImage aspect ratio 4:5",
+    "image": null,
+    "date": "2026-02-18T01:46:48.093Z",
+    "id": "mlrjdwjr"
+  },
+  {
+    "function": "Quality 4k",
+    "prompt": "Ultra-detailed photorealistic skin: texture enhancement.\n\nPreserve original face, proportion expression and pose 1:1. Natural skin micro-relief with visible pores, fine skin grain, subel uneven texture.\n\nMicro wrinkles around eyes, [ips. and nasolabial area, delicate natural creases. Visible vellus facial hair (peach fuzz) on cheeks, forehead and upper lip,\n\nvery fine and realistic.\n\nNatural skin imperfections: tiny\n\nkles, micro redness, slight tonal variation\n\nRealistic glossy highlights on skin, true light reflection, no artificial shine\n\nHigh-resolution beauty macro clarity, epidermis-level detail.\n\nProfessional studio lighting emphasizing texture, soft directional light,\n\ncontrolled highlights.\n\nShot on high-end full-frame camera, macro lens, RAW photo realism.\n\nZero retouching, zero smoothing, no beauty filters, no Al plastic skin.\n\nShot on high-end full-frame camera 85-105mm lens shallow depth of held, extreme realism,\n\nRAW photo look, editorial beauty photography, zero retouching, no Al plastic skin",
+    "image": null,
+    "date": "2026-02-18T01:28:11.374Z",
+    "id": "mlrjdwjs"
+  }
+]

@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign In — Promptefy</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body { overflow: hidden; }
+    </style>
+</head>
+<body class="auth-page">
+    <div class="glass-bg"></div>
+    <div class="auth-card">
+        <a href="/" style="text-decoration:none; color:inherit;"><div class="auth-logo">Promptefy</div></a>
+        
+        <div class="auth-tabs">
+            <button class="auth-tab active" data-tab="signin">Sign In</button>
+            <button class="auth-tab" data-tab="signup">Sign Up</button>
+        </div>
+
+        <!-- Sign In Form (Email Only) -->
+        <form id="signin-form" class="auth-form">
+            <input type="email" id="signin-email" placeholder="Email" required autocomplete="email">
+            <div id="signin-error" class="auth-error"></div>
+            <button type="submit" class="auth-submit-btn">Send Login Code</button>
+        </form>
+
+        <!-- Sign Up Form (Email + Name) -->
+        <form id="signup-form" class="auth-form" style="display:none">
+            <input type="text" id="signup-name" placeholder="Full Name" required autocomplete="name">
+            <input type="email" id="signup-email" placeholder="Email" required autocomplete="email">
+            <div id="signup-error" class="auth-error"></div>
+            <button type="submit" class="auth-submit-btn">Send Signup Code</button>
+        </form>
+
+        <!-- OTP Verification Step -->
+        <form id="otp-form" class="auth-form" style="display:none">
+            <p style="font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 15px; text-align: center;">We sent an 8-digit code to <b id="otp-email-display">your email</b>.</p>
+            <input type="text" id="otp-code" placeholder="Enter 8-digit code" required autocomplete="one-time-code" maxlength="8" style="text-align: center; letter-spacing: 5px; font-size: 1.2rem;">
+            <div id="otp-error" class="auth-error"></div>
+            <button type="submit" class="auth-submit-btn">Verify & Sign In</button>
+            <button type="button" id="otp-cancel" style="background:none; color:var(--text-muted); border:none; margin-top:10px; cursor:pointer;">Cancel</button>
+        </form>
+
+        <div class="auth-footer" id="auth-footer">
+            <p id="auth-switch-text">Don't have an account? <a href="#" id="auth-switch-link">Sign Up</a></p>
+            <p style="margin-top:15px;"><a href="/" style="color:var(--text-muted); font-size:0.75rem;">← Back to Home</a></p>
+        </div>
+    </div>
+
+    <!-- Load Supabase JS -->
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            let supabase = null;
+            let currentEmailForOtp = '';
+
+            // Initialize Supabase using config endpoint
+            fetch('/api/config')
+                .then(res => res.json())
+                .then(config => {
+                    if (config.SUPABASE_URL && config.SUPABASE_ANON_KEY) {
+                        supabase = window.supabase.createClient(config.SUPABASE_URL, config.SUPABASE_ANON_KEY);
+                    } else {
+                        console.error("Supabase credentials missing from /api/config");
+                    }
+                });
+
+            const tabs = document.querySelectorAll('.auth-tab');
+            const signinForm = document.getElementById('signin-form');
+            const signupForm = document.getElementById('signup-form');
+            const otpForm = document.getElementById('otp-form');
+            const authFooter = document.getElementById('auth-footer');
+            
+            const signinError = document.getElementById('signin-error');
+            const signupError = document.getElementById('signup-error');
+            const otpError = document.getElementById('otp-error');
+            const switchText = document.getElementById('auth-switch-text');
+
+            function switchTab(tabName) {
+                tabs.forEach(t => t.classList.toggle('active', t.dataset.tab === tabName));
+                signinForm.style.display = tabName === 'signin' ? 'flex' : 'none';
+                signupForm.style.display = tabName === 'signup' ? 'flex' : 'none';
+                otpForm.style.display = 'none';
+                authFooter.style.display = 'block';
+                document.querySelector('.auth-tabs').style.display = 'flex';
+
+                signinError.textContent = ''; signupError.textContent = ''; otpError.textContent = '';
+                
+                if (tabName === 'signin') {
+                    switchText.innerHTML = `Don't have an account? <a href="#" id="auth-switch-link">Sign Up</a>`;
+                    document.title = 'Sign In — Promptefy';
+                } else {
+                    switchText.innerHTML = `Already have an account? <a href="#" id="auth-switch-link">Sign In</a>`;
+                    document.title = 'Sign Up — Promptefy';
+                }
+            }
+
+            // Attach static click listener to the container (Event Delegation)
+            switchText.addEventListener('click', (e) => {
+                if (e.target.id === 'auth-switch-link') {
+                    e.preventDefault();
+                    const currentTab = signinForm.style.display === 'flex' || signinForm.style.display === '' ? 'signin' : 'signup';
+                    switchTab(currentTab === 'signin' ? 'signup' : 'signin');
+                }
+            });
+
+            tabs.forEach(tab => { tab.onclick = () => switchTab(tab.dataset.tab); });
+
+            function showOtpStep(email) {
+                currentEmailForOtp = email;
+                document.getElementById('otp-email-display').textContent = email;
+                
+                signinForm.style.display = 'none';
+                signupForm.style.display = 'none';
+                authFooter.style.display = 'none';
+                document.querySelector('.auth-tabs').style.display = 'none';
+                
+                otpForm.style.display = 'flex';
+            }
+
+            document.getElementById('otp-cancel').onclick = () => switchTab('signin');
+            // ==== Send OTP (Sign In/Up) ====
+            async function sendOtp(email, isSignUp = false, name = '') {
+                if (!supabase) return alert("System still loading.");
+                const btn = (isSignUp ? signupForm : signinForm).querySelector('button[type="submit"]');
+                const errDiv = isSignUp ? signupError : signinError;
+                
+                btn.textContent = 'Sending...';
+                btn.disabled = true;
+                errDiv.textContent = '';
+
+                const options = isSignUp && name ? { data: { full_name: name } } : {};
+                
+                const { data, error } = await supabase.auth.signInWithOtp({ email, options });
+                
+                btn.disabled = false;
+                btn.textContent = isSignUp ? 'Send Signup Code' : 'Send Login Code';
+
+                if (error) {
+                    errDiv.textContent = error.message;
+                } else {
+                    showOtpStep(email);
+                }
+            }
+
+            signinForm.onsubmit = (e) => { e.preventDefault(); sendOtp(document.getElementById('signin-email').value, false); };
+            signupForm.onsubmit = (e) => { e.preventDefault(); sendOtp(document.getElementById('signup-email').value, true, document.getElementById('signup-name').value); };
+
+            // ==== Verify OTP ====
+            otpForm.onsubmit = async (e) => {
+                e.preventDefault();
+                const btn = otpForm.querySelector('button[type="submit"]');
+                const code = document.getElementById('otp-code').value;
+                
+                otpError.textContent = '';
+                btn.disabled = true;
+                btn.textContent = 'Verifying...';
+
+                const { data, error } = await supabase.auth.verifyOtp({ email: currentEmailForOtp, token: code, type: 'email' });
+
+                btn.disabled = false;
+                btn.textContent = 'Verify & Sign In';
+
+                if (error) {
+                    if (error.message.toLowerCase().includes('expired or is invalid')) {
+                        otpError.textContent = "You have entered the wrong code.";
+                    } else {
+                        otpError.textContent = error.message;
+                    }
+                } else {
+                    // Successfully authenticated, extract session and sync to local state
+                    if (data.session) {
+                        const userMeta = data.session.user.user_metadata || {};
+                        const pfyUser = {
+                            uid: data.session.user.id,
+                            email: data.session.user.email,
+                            name: userMeta.full_name || data.session.user.email.split('@')[0],
+                            token: data.session.access_token,
+                            saved: [],
+                            likes: []
+                        };
+                        localStorage.setItem('pfy_user', JSON.stringify(pfyUser));
+                        window.location.href = '/';
+                    }
+                }
+            };
+
+            // Switch to signup initially if url has #signup
+            if (window.location.hash === '#signup') {
+                switchTab('signup');
+            } else {
+                switchTab('signin'); // Initialize default state
+            }
+        });
+    </script>
+</body>
+</html>

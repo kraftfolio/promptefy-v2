@@ -1,0 +1,153 @@
+[
+  {
+    "function": "Quality 4k",
+    "prompt": "Ultra-detailed photorealistic skin: texture enhancement.\n\nPreserve original face, proportion expression and pose 1:1. Natural skin micro-relief with visible pores, fine skin grain, subel uneven texture.\n\nMicro wrinkles around eyes, [ips. and nasolabial area, delicate natural creases. Visible vellus facial hair (peach fuzz) on cheeks, forehead and upper lip,\n\nvery fine and realistic.\n\nNatural skin imperfections: tiny\n\nkles, micro redness, slight tonal variation\n\nRealistic glossy highlights on skin, true light reflection, no artificial shine\n\nHigh-resolution beauty macro clarity, epidermis-level detail.\n\nProfessional studio lighting emphasizing texture, soft directional light,\n\ncontrolled highlights.\n\nShot on high-end full-frame camera, macro lens, RAW photo realism.\n\nZero retouching, zero smoothing, no beauty filters, no Al plastic skin.\n\nShot on high-end full-frame camera 85-105mm lens shallow depth of held, extreme realism,\n\nRAW photo look, editorial beauty photography, zero retouching, no Al plastic skin",
+    "image": null,
+    "date": "2026-02-18T01:24:20.677Z",
+    "id": "mlrjdwjd"
+  },
+  {
+    "function": "Dark Demon",
+    "tags": [
+      "gothic"
+    ],
+    "prompt": "Transform this mirror selfie into a dark, cinematic fantasy scene.\n\n-Keep the person exactly the same same face, pose, outfit, lighting, and background. Add a shadowy, smoke-like demonic entity emerging from behind the person's back. The entity should be made of swirling black smoke, semi-transparent, with glowing white eyes. The smoke wraps around the body and flows down to the floor naturally, blending with the environment.\n\nMaintain realistic shadows, reflections, and depth so the creature feels part of the scene.\n\nDark, moody atmosphere, high contrast, cinematic lighting, ultra-realistic, 4K quality.\n\nNo change to facial features, clothing, or camera angle",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-02-18T03:20:23.311Z",
+    "id": "mlrjdwje"
+  },
+  {
+    "function": "Dark Wings",
+    "tags": [
+      "gothic",
+      "gemini"
+    ],
+    "prompt": "Transform this image into a dark, cinematic street-art fantasy scene.\n\nKeep the person exactly the same - same body, pose, clothing, proportions, angle, and lighting. Do not change the face, outfit, or posture.\n\nAdd three large metallic gothic crosses emerging from the wall behind the person's back, arranged diagonally like wings.\n\nThe crosses should look chrome / silver metal, sharp-edged, reflective, and slightly worn.\n\nThe crosses must appear embedded into the wall, glowing subtly with white highlights and emitting a faint smoky aura where they break through the concrete.\n\nMaintain realistic shadows, reflections, and depth so the crosses feel physically present and heavy. Overall mood: dark, cinematic, high-contrast, monochrome, gritty urban aesthetic. Ultra-realistic, dramatic lighting, sharp focus, editorial fashion photography style.",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-02-18T03:12:59.179Z",
+    "id": "mlrjdwjf"
+  },
+  {
+    "function": "Spotify 3D AR",
+    "tags": [
+      "3d"
+    ],
+    "prompt": "A cinematic, dreamlike AR visual featuring a central 193 photo realistic person surrounded by floating 3D Spotify/apple music interface cards. The cards orbit the subject at varying depths- some in the foreground obscuring the figure, others drifting behind. Style Translucent frosted glass with glowing borders and rounded edges.Lightning:natural tones, Enhance the photo quality includes depth of field (blurred background cards) and motion accents, highlighting [seedhe maut songs: luka chippi, 11K, Kohra, DL91FM 101, ball, SRK player interfaces",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-02-18T03:01:22.459Z",
+    "id": "mlrjdwjg"
+  },
+  {
+    "function": "Face consistency",
+    "tags": [
+      "snippet",
+      "face lock"
+    ],
+    "prompt": "IMPORTANT - FACE LOCK Keep the subject's real face exactly the same as the reference image. Do NOT change facial structure, jawline, eyes shape, nose, lips, skin tone, beard, hairline, age, or expression. Maintal 100% identity accuracy. No beautification, no face swapping, no Al alteration. Preserve natural skin texture, pores, asymmetry, and imperfections. The person must be instantly recognizable as the same individual",
+    "author": "krish",
+    "author_id": 7785698936,
+    "date": "2026-02-18T02:58:30.879Z",
+    "id": "mlrjdwjh",
+    "pinned": true
+  },
+  {
+    "function": "Hairstyle grid",
+    "tags": [
+      "hairstyle",
+      "gemini"
+    ],
+    "prompt": "...Analyze the single image 1 upload. Identify my exact\n\nface shape and hair type with precision. Then generate a vertical 9:16 4K 3x3 grid of hairstyle reference images directly on my face. Requirements: Analyze the uploaded image to detect: Face shape, Hair density, texture, curl pattern, and growth direction. Based on this analysis, recommend haircuts for three scenarios:\n\nProfessional or workplace, University or college, School\n\nor teenage. Provide 4 haircut options per scenario, each\n\nwith a short, specific explanation of why it suits my\n\ngeometry and hair behavior. After the recommendationg0.7K\n\ngenerate a 3x3 grid of haircut images, each placed\n\nrealistically on my face. Technical requirements: Vertical\n\n9:16 orientation, 4K quality, Realistic lighting, Natural hair\n\nflow and believable texture, No fantasy looks or\n\nexaggerated Al styling. Variation rules for the 3x3 grid:\n\nMix short, medium, and slightly longer styles, Reflect the\n\nrecommended haircuts, Maintain consistency with my\n\nreal hair type and proportions. Output must be\n\nstructured, clean, and easy to compare across\n\nscenarios. Your goal is accuracy, realism, and\n\nprofessional grooming quality",
+    "image": null,
+    "date": "2026-02-18T02:49:19.298Z",
+    "id": "mlrjdwji"
+  },
+  {
+    "function": "Beach portrait aesthetic",
+    "tags": [
+      "portrait",
+      "aesthetic",
+      "gemini"
+    ],
+    "prompt": "Use the uploaded reference photo as the single\n\nand exclusive facial identity source. The same exact face must appear in ALL three frames with no variation.\n\nDo not reinterpret, regenerate, beautify, or modify the face between frames.\n\nFacial identity has highest priority over lighting, angle, blur, or realism.\n\nUltra-realistic vertical image split equally into three stacked frames (top / middle / bottom) within one single photo. All frames show the same person with the same face, same outfit, same location, captured seconds apart like a burst of candid smartphone shots. Only subtle movement changes. Feels accidental, real, and human. Location & background:\n\nOpen beach night at a modern resort outdoors at night. Wooden tent in background, Warm lights glowing softly near the tent. Dark night sky visible. Beachy atmosphere. Real, moment - not staged. Outfit (locked):\n\nLime green vertically striped button-down shirt, top buttons open showing slight chest. Full Sleeves rolled to forearms. High-waisted cream tailored trousers. Metal wristwatch on one wrist. No jacket, no accessories beyond the watch.\n\nHair & Face (LOCKED)\n\nMedium-length, thick, naturally wavy hair\n\nSlightly messy, lived-in texture\n\nLight stubble / short beard\n\nReal skin texture, visible pores\n\nNo smoothing, no beautification\n\nFRAME BREAKDOWN (VERY IMPORTANT)\n\nTOP FRAME - BACK SHOT\n\nBack view of the subject.\n\nHe is touching the back of his hair near the neck,\n\nfingers slightly tangled in hair.\n\nHead tilted slightly down and to the side. Relaxed posture, candid movement.\n\nHair texture clearly visible from behind.\n\nMIDDLE FRAME close up\nTight close-up near the eyes and upper face. Messy strands of hair falling naturally near the eyes.\n\nEyes partially visible, soft focus.\n\nVery slight motion softness from movement. Feels intimate, accidental, not posed.\n\nBOTTOM FRAME - MID SHOT\n\nMid-shot from waist or chest up.\n\nSubject leaning casually against the railing.\n\nLooking sideways, not at the camera.\n\nExpression calm, confident, contemplative.\n\nNatural posture, effortless presence.\n\nLighting (LOCKED)\n\nWarm artificial wall lighting mixed with cool night ambient light.\n\nSoft illumination on face and shirt",
+    "image": null,
+    "date": "2026-02-18T02:18:45.791Z",
+    "id": "mlrjdwjj"
+  },
+  {
+    "function": "Night flash glow",
+    "tags": [
+      "night",
+      "flash"
+    ],
+    "prompt": "apply a boid\n\nnight-flash aesthetic to the uploaded photo while\n\nfully preserving every original detail of the image.\n\nHard rule: Do NOT change, reshape, beautify, replace, or alter the subject's face or hair in any way. Face identity, facial structure, skin details, and hair must remain 100% identical to the original photo. Pose, Composition & Framing (LOCKED) Keep the exact same pose, posture, body position, camera angle, framing, crop, and perspective Do NOT move, rotate, resize, or reposition the subject Do NOT alter lens characteristics, focal length, or framing Composition must remain pixel-identical, except\n\nfor lighting effects. Lighting & Mood Maintain a dark, deep, realistic nighttime environment Preserve all existing shadows, silhouettes, and background details Do NOT brighten or modify the background, except for subtly enhancing existing point lights Illuminate the subject using a strong, warm, direct front-facing flash The subject must be the brightest element in the entire frame Flash focused on the face and upper body Strong separation between bright highlights and soft, deep shadows for a cinematic high-contrast look Add subtle lens bloom, light haze, and a thin atmospheric glow around the face and shoulders Render skin with luminous translucency and gentle peachy tones Enhance stray hair strands with soft backlit highlights Do NOT alter face texture, facial structure, or hair shape Final Goal: Create a cinematic night-flash portrait, with foreground blur and depth layers, while keeping the subject's face, pose, and composition perfectly untouched.\"",
+    "image": null,
+    "date": "2026-02-18T02:11:57.913Z",
+    "id": "mlrjdwjk"
+  },
+  {
+    "function": "Uncomposed Snapshot",
+    "tags": [
+      "gemini",
+      "snapshot"
+    ],
+    "prompt": "Create an image of a selfie, without any clear subject or composition-just a random blueish snapshot taken unintentionally. The image should have slight motion blur and consistent lighting from streetlights. Both characters are together in the selfie and the image size ratio is 4:5 and does not change the facial features",
+    "image": null,
+    "date": "2026-02-18T02:08:19.487Z",
+    "id": "mlrjdwjl"
+  },
+  {
+    "function": "Raw Flash Snapshot",
+    "tags": [
+      "snapshot"
+    ],
+    "prompt": "Using the attached photo as a facial reference, preserve the person's facial identity accurately. Maintain the same facial structure, proportions, and key features. Do not stylize, replace, or alter the identity. A close-up photograph of a young woman displayed on the LCD screen of a compact Canon digital camera. The camera body frames the image, with physical buttons, dials, and textured plastic clearly visible, including the FUNC/SET wheel, the DISP button, and the \"IMAGE STABILIZER\" label along the side of the camera body.\n\nOn the camera screen, the photo shows the same woman indoors at night, captured with a built-in flash. The harsh direct flash creates sharp highlights on her face and hair, emphasizing skin texture and natural imperfections. She has long dark hair falling loosely across part of her face, with a soft, slightly open-lip expression that feels candid and unposed.\n\nThe background is a dim, cluttered kitchen environment with appliances, shelves, and metallic surfaces, softly blurred due to flash falloff and shallow depth. The contrast between the bright flash flash and the low ambient light creates a raw, documentary feel.\n\nThe overall mood is candid, raw, and nostalgic, reminiscent of early 2000s compact digital camera snapshots. Colors are slightly muted with cool undertones, strong flash contrast, subtle digital noise, and authentic LCD screen grain and glow. No text, no logos, and no Ul overlays inside the photo preview itself.",
+    "image": null,
+    "date": "2026-02-18T02:04:32.921Z",
+    "id": "mlrjdwjm"
+  },
+  {
+    "function": "Nostalgic Snapshot Aestheti",
+    "prompt": "Using the attached photo as a facial reference, preserve the person's facial identity accurately and consistently. Keep the original facial structure, proportions, and key features intact. Do not alter, stylize, or replace the face.\n\nCreate a portrait of the same young woman, captured with a 1990s-style camera using a harsh direct front flash. The flash creates a bright, nostalgic glow with strong contrast and natural falloff into the background. She has messy dark brown hair tied up loosely, with a calm yet playful smile that feels natural and unposed. Her skin appears porcelain-white under the flash, with realistic texture and subtle imperfections preserved. She is wearing a modern oversized cream sweater, adding a soft contrast to the harsh flash lighting.\n\nThe background is a dark white wall covered with aesthetic magazine posters and stickers, suggesting a cozy personal bedroom atmosphere. The ambient lig light is low, allowing the flash to dominate the scene while the background remains softly visible. Shot on a 35mm lens with on-camera flash, shallow depth of field, and authentic 1990s point-and-shoot aesthetics. Colors are slightly muted, with cool undertones, subtle grain, and a raw, nostalgic snapshot feel.",
+    "image": null,
+    "date": "2026-02-18T02:02:40.826Z",
+    "id": "mlrjdwjn"
+  },
+  {
+    "function": "Cinematic Character Poster",
+    "prompt": "A cinematic movie poster style image with a strict 4:5 aspect ratio, shot from a perfectly vertical 90 degree top down camera angle. A single person of my choosing stands exactly at the center of the frame, looking straight up at the camera, where the person’s gender, age, ethnicity, facial features, hairstyle, and body type can be changed as needed for each generation. Beneath the person is a detailed architectural blueprint floor in teal blue tones, filled with precise orange technical line drawings, measurements, arrows, circular markings, and schematic elements. A large circular compass or targeting dial is perfectly aligned under the subject, reinforcing symmetry and focus. The lighting is cinematic and controlled, with a soft overhead spotlight creating defined shadows around the person. The color palette is limited to teal blue, cyan, and warm orange accents for high contrast and graphic clarity. The person is wearing [fully customizable outfit including jacket, inner layer, pants, and shoes], styled intentionally based on the desired character or brand direction. The composition is minimal, sharp, and highly structured, with a professional film marketing poster aesthetic, ultra high detail, crisp focus, and cinematic color grading. No text, no logos, no typography, no watermarks.",
+    "image": null,
+    "date": "2026-02-18T02:01:32.929Z",
+    "id": "mlrjdwjo"
+  },
+  {
+    "function": "Quality 2",
+    "prompt": "Ultra-high-resolution 4K enhancement based strictly on the provided reference image. Absolute fidelity to original facial anatomy, proportions, and identity. Preserve expression, gaze, pose, camera angle, framing, and perspective with zero deviation. Clothing, hair, skin, and background elements must remain unchanged in structure, placement, and\n\ndesign. Recover fine-grain detail with natural realism. Enhance pores, fine lines, hair strands, eyelashes, fabric weave, seams, and material edges without introducing stylization. Maintain original color science, white balance, and tonal relationships exactly as captured. Lighting direction, intensity, contrast, and shadow behavior must match the source image precisely, with only improved clarity and expanded dynamic range. No relighting, no reshaping. Remove any grain. Apply controlled sharpening and high-frequency detail reconstruction. Remove compression artifacts and noise while retaining authentic texture. No smoothing, no plastic skin, no artificial gloss. Facial features must remain consistent across the entire image with coherent anatomy and clean, stable edges. Negative constraints: no warping, no facial drift, no added or missing anatomy, no altered hands, no distortions, no perspective shift, no text or graphics, no hallucinated detail, no stylized rendering. Output must read as a true-to-life, photorealistic upscale that matches the reference exactly, only clearer, sharper, and higher resolution.",
+    "image": null,
+    "date": "2026-02-18T01:50:45.868Z",
+    "id": "mlrjdwjp"
+  },
+  {
+    "function": "Night flash",
+    "prompt": "Apply a boid night-flash aesthetic to the uploaded photo while fully preserving every original detail of the image. Hard rule: Do NOT change, reshape, beautify, replace, or alter the subject's face or hair in any way. Face identity, facial structure, skin details, and hair must remain 100% identical to the original photo. Pose, Composition & Framing (LOCKED) Keep the exact same\n\npose, posture, body position, camera angle, framing, crop, and perspective Do NOT move, rotate, resize, or reposition the subject Do NOT alter lens characteristics, focal length, or framing Composition must remain pixel-identical, except for lighting effects. Lighting & Mood Maintain a dark, deep, realistic nighttime environment Preserve all existing shadows, silhouettes, and background details Do NOT brighten or modify the background, except for subtly enhancing existing point lights Illuminate the subject using a strong, warm, direct front-facing flash The subject must be the brightest element in the entire frame Flash focused on the face and upper body Strong separation between bright highlights and soft, deep shadows for a cinematic high-contrast look Add subtle lens bloom, light haze, and a thin atmospheric glow around the face and shoulders Render skin with luminous translucency and gentle peachy tones Enhance stray hair strands with soft backlit highlights Do NOT alter face texture, facial structure, or hair shape Final Goal: Create a cinematic night-flash portrait, with foreground blur and depth layers, while keeping the subject's face, pose, and composition\n\nperfectly untouched",
+    "image": null,
+    "date": "2026-02-18T01:48:58.253Z",
+    "id": "mlrjdwjq"
+  },
+  {
+    "function": "Minecraft style",
+    "prompt": "{ “task”: “image_transformation”,\n“style”: {\n“overall_aesthetic”: “High-quality cinematic Minecraft screenshot.”,\n“rendering_technique”: “Mixed-media: Photorealistic subject embedded in a voxel-based environment.”\n},\n“subject_rules”: {\n“main_subject”: “The human person from the reference image must remain completely photorealistic and unchanged. No pixelation or block filters on their body, clothing, or face.”,\n“interacting_objects”: “CRITICAL: Any non-human object in direct physical contact with the subject e.g. or nearby pets dogs MUST be converted into Minecraft block models or mobs. A real dog becomes a Minecraft wolf.”\n},\n“environment_rules”: {\n“background_analysis”: “Analyze the reference image background structure and recreate it entirely out of Minecraft voxel blocks.”,\n“elements”: “Trees, terrain, paths, and foliage must be cubic blocks with pixel art textures.”,\n“atmosphere”: “Replicate thefoggy forest atmosphere using blocky volumetric fog layers appropriate for Minecraft.”\n},\n“composition_and_lighting”: {\n“camera”: “Maintain the exact camera angle and framing from the reference photo.”,\n“lighting”: “Minecraft daylight with gentle haze and consistent block-based shadows.”\n}\nImage aspect ratio 4:5",
+    "image": null,
+    "date": "2026-02-18T01:46:48.093Z",
+    "id": "mlrjdwjr"
+  },
+  {
+    "function": "Quality 4k",
+    "prompt": "Ultra-detailed photorealistic skin: texture enhancement.\n\nPreserve original face, proportion expression and pose 1:1. Natural skin micro-relief with visible pores, fine skin grain, subel uneven texture.\n\nMicro wrinkles around eyes, [ips. and nasolabial area, delicate natural creases. Visible vellus facial hair (peach fuzz) on cheeks, forehead and upper lip,\n\nvery fine and realistic.\n\nNatural skin imperfections: tiny\n\nkles, micro redness, slight tonal variation\n\nRealistic glossy highlights on skin, true light reflection, no artificial shine\n\nHigh-resolution beauty macro clarity, epidermis-level detail.\n\nProfessional studio lighting emphasizing texture, soft directional light,\n\ncontrolled highlights.\n\nShot on high-end full-frame camera, macro lens, RAW photo realism.\n\nZero retouching, zero smoothing, no beauty filters, no Al plastic skin.\n\nShot on high-end full-frame camera 85-105mm lens shallow depth of held, extreme realism,\n\nRAW photo look, editorial beauty photography, zero retouching, no Al plastic skin",
+    "image": null,
+    "date": "2026-02-18T01:28:11.374Z",
+    "id": "mlrjdwjs"
+  }
+]
